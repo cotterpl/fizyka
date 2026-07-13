@@ -137,4 +137,4 @@ Jaką całkowitą drogę przebyło to ciało w ciągu całych 12 sekund ruchu?
 - [ ] C. 4 m/s²
 - [ ] D. 6 m/s²
 
-[⬅ Powrót do spisu treści](1_kinematyka.md)
+[⬅ Powrót do spisu treści](1.0_kinematyka.md)

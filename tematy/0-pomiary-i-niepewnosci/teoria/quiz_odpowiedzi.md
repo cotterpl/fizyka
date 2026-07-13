@@ -7,10 +7,11 @@ Wskazanie 640 g ± 5 g oznacza, że prawdziwa masa mieści się w przedziale 635
 Niepewność liczymy ze wzoru: niepewność = (klasa dokładności/100) × zakres pomiarowy = (2,5/100) × 20 N = 0,5 N. Klasę dokładności zawsze mnożymy przez cały zakres pomiarowy przyrządu, a nie przez odczytaną wartość.
 
 **3. Odpowiedzi:**
-a) **P** — to dokładnie definicja działki elementarnej.
-b) **F** — dla typowego przyrządu analogowego niepewność to zwykle *połowa* działki elementarnej, a nie cała działka.
-c) **P** — to dokładnie definicja zakresu pomiarowego.
-d) **F** — każdy pomiar fizyczny ma jakąś niepewność, wynikającą z ograniczonej dokładności przyrządu; pomiar idealnie dokładny nie istnieje.
+
+- a) **P** — to dokładnie definicja działki elementarnej.
+- b) **F** — dla typowego przyrządu analogowego niepewność to zwykle *połowa* działki elementarnej, a nie cała działka.
+- c) **P** — to dokładnie definicja zakresu pomiarowego.
+- d) **F** — każdy pomiar fizyczny ma jakąś niepewność, wynikającą z ograniczonej dokładności przyrządu; pomiar idealnie dokładny nie istnieje.
 
 **4. Odpowiedź: od 149 g do 155 g.**
 Zapis $m = (152 \pm 3)$ g oznacza, że wartość prawdziwa leży w przedziale od $152-3=149$ g do $152+3=155$ g.
@@ -28,10 +29,11 @@ Aby liczba 0,000067 przyjęła postać $a \times 10^{n}$ z $1 \le a < 10$, przes
 1 cm = 10⁻² m, więc 3,2 × 10⁵ cm = 3,2 × 10⁵ × 10⁻² m = 3,2 × 10³ m. Przy mnożeniu potęg o tej samej podstawie dodajemy wykładniki: 5 + (−2) = 3.
 
 **9. Odpowiedzi:**
-a) **P** — kelwin (K) to rzeczywiście podstawowa jednostka SI temperatury.
-b) **F** — jednostką siły jest niuton (N); dżul (J) to jednostka pracy/energii.
-c) **P** — herc (Hz) jest jednostką pochodną i rzeczywiście oznacza 1/s (jedno zdarzenie na sekundę).
-d) **F** — amper (A) jest jedną z siedmiu jednostek *podstawowych* SI, a nie jednostką pochodną.
+
+- a) **P** — kelwin (K) to rzeczywiście podstawowa jednostka SI temperatury.
+- b) **F** — jednostką siły jest niuton (N); dżul (J) to jednostka pracy/energii.
+- c) **P** — herc (Hz) jest jednostką pochodną i rzeczywiście oznacza 1/s (jedno zdarzenie na sekundę).
+- d) **F** — amper (A) jest jedną z siedmiu jednostek *podstawowych* SI, a nie jednostką pochodną.
 
 **10. Odpowiedź: paskal (Pa) jest jednostką ciśnienia, a wat (W) jest jednostką mocy.**
 Pa = N/m² (siła podzielona przez powierzchnię — czyli ciśnienie), natomiast W = J/s (energia podzielona przez czas — czyli moc).
