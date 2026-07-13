@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-67 -208 440 352">
+  <rect x="-67" y="-208" width="440" height="352" fill="#ffffff"/>
  <title>water temperature vs heat added</title>
  <desc>Graph of temperature of water continuously heated from &#8722;100&#8201;&#176;C by CMG Lee. The dashed line example shows that 600 kJ can heat and melt 1&#8201;kg of ice at &#8722;50&#8202;&#176;C to 40&#8202;&#176;C. Values are from http://en.wikipedia.org/wiki/Table_of_specific_heat_capacities and http://en.wikipedia.org/wiki/Latent_heat .</desc>
  <style type="text/css">

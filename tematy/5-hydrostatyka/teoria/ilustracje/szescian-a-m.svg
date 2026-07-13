@@ -1,4 +1,5 @@
 <svg width="300" height="230" viewBox="0 0 300 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sześcian o krawędzi a i masie m">
+  <rect x="0" y="0" width="300" height="230" fill="#ffffff"/>
   <polygon points="60,200 60,80 180,80 180,200" fill="#cfe8f3" stroke="#1b2b34" stroke-width="2"/>
   <polygon points="60,80 110,30 230,30 180,80" fill="#a9d4e6" stroke="#1b2b34" stroke-width="2"/>
   <polygon points="180,80 230,30 230,150 180,200" fill="#8bbedc" stroke="#1b2b34" stroke-width="2"/>

@@ -1,4 +1,5 @@
 <svg viewBox="0 0 400 240" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:440px" role="img" aria-label="Wykres v(t) dla spadku swobodnego — linia prosta wychodząca z zera, prędkość rośnie o ok. 10 m/s co sekundę">
+  <rect x="0" y="0" width="400" height="240" fill="#ffffff"/>
   <defs>
     <marker id="grot5" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L9,3 L0,6 Z" fill="#333"/>

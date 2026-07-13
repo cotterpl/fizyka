@@ -1,4 +1,5 @@
 <svg viewBox="0 0 420 160" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:480px" role="img" aria-label="Dwaj łyżwiarze odpychający się wzajemnie — siła akcji A pcha B i siła reakcji B pcha A, o tej samej wartości i przeciwnym zwrocie">
+  <rect x="0" y="0" width="420" height="160" fill="#ffffff"/>
   <defs>
     <marker id="grot3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
       <path d="M0,0 L9,3 L0,6 Z" fill="#2c3e50"/>
