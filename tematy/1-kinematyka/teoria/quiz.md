@@ -25,34 +25,9 @@ Poniższe 10 pytań sprawdza znajomość całego tematu 1 (podtematy 1.1–1.6).
 
 **4.** Na wykresie poniżej przedstawiono zależność drogi od czasu s(t) dla pewnego ciała:
 
-<div align="center">
-
-<svg viewBox="0 0 400 250" width="100%" style="max-width:420px" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wykres s(t): droga rośnie liniowo od 0 do 20 m w czasie 0-2 s, potem pozostaje stała na poziomie 20 m do 6 s">
-  <line x1="50" y1="210" x2="365" y2="210" stroke="black" stroke-width="2"/>
-  <polygon points="365,210 355,206 355,214" fill="black"/>
-  <line x1="50" y1="210" x2="50" y2="45" stroke="black" stroke-width="2"/>
-  <polygon points="50,45 46,55 54,55" fill="black"/>
-  <text x="30" y="35" font-size="14">s [m]</text>
-  <text x="380" y="215" font-size="14">t [s]</text>
-  <polyline points="50,210 150,60 350,60" fill="none" stroke="#c0392b" stroke-width="3"/>
-  <line x1="150" y1="210" x2="150" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="200" y1="210" x2="200" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="250" y1="210" x2="250" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="300" y1="210" x2="300" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="350" y1="210" x2="350" y2="216" stroke="black" stroke-width="1.5"/>
-  <text x="46" y="228" font-size="13">0</text>
-  <text x="146" y="228" font-size="13">2</text>
-  <text x="196" y="228" font-size="13">3</text>
-  <text x="246" y="228" font-size="13">4</text>
-  <text x="296" y="228" font-size="13">5</text>
-  <text x="346" y="228" font-size="13">6</text>
-  <line x1="44" y1="60" x2="50" y2="60" stroke="black" stroke-width="1.5"/>
-  <text x="18" y="65" font-size="13">20</text>
-</svg>
+![Wykres s(t): droga rośnie liniowo od 0 do 20 m w czasie 0-2 s, potem pozostaje stała na poziomie 20 m do 6 s](ilustracje/quiz-wykres-st.svg)
 
 *Ilustracja własna — dokładny wykres do tego konkretnego zadania (nie znaleziono gotowego obrazka z tymi samymi liczbami).*
-
-</div>
 
 (odcinek 0–2 s: droga rośnie liniowo od 0 do 20 m; odcinek 2–6 s: droga pozostaje stała na poziomie 20 m)
 
@@ -79,33 +54,9 @@ W którym przedziale czasu prędkość ciała była równa zeru?
 
 **7.** Na wykresie poniżej przedstawiono zależność prędkości od czasu v(t) dla ciała poruszającego się przez 12 sekund:
 
-<div align="center">
-
-<svg viewBox="0 0 400 250" width="100%" style="max-width:420px" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wykres v(t): prędkość rośnie liniowo od 0 do 8 m/s w czasie 0-4 s, jest stała 8 m/s od 4 do 10 s, a potem maleje liniowo do 0 między 10 a 12 s">
-  <line x1="50" y1="210" x2="365" y2="210" stroke="black" stroke-width="2"/>
-  <polygon points="365,210 355,206 355,214" fill="black"/>
-  <line x1="50" y1="210" x2="50" y2="45" stroke="black" stroke-width="2"/>
-  <polygon points="50,45 46,55 54,55" fill="black"/>
-  <text x="22" y="35" font-size="14">v [m/s]</text>
-  <text x="380" y="215" font-size="14">t [s]</text>
-  <polyline points="50,210 150,60 300,60 350,210" fill="none" stroke="#2980b9" stroke-width="3"/>
-  <line x1="150" y1="210" x2="150" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="200" y1="210" x2="200" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="250" y1="210" x2="250" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="300" y1="210" x2="300" y2="216" stroke="black" stroke-width="1.5"/>
-  <line x1="350" y1="210" x2="350" y2="216" stroke="black" stroke-width="1.5"/>
-  <text x="146" y="228" font-size="13">4</text>
-  <text x="196" y="228" font-size="13">6</text>
-  <text x="246" y="228" font-size="13">8</text>
-  <text x="292" y="228" font-size="13">10</text>
-  <text x="342" y="228" font-size="13">12</text>
-  <line x1="44" y1="60" x2="50" y2="60" stroke="black" stroke-width="1.5"/>
-  <text x="26" y="65" font-size="13">8</text>
-</svg>
+![Wykres v(t): prędkość rośnie liniowo od 0 do 8 m/s w czasie 0-4 s, jest stała 8 m/s od 4 do 10 s, a potem maleje liniowo do 0 między 10 a 12 s](ilustracje/quiz-wykres-vt.svg)
 
 *Ilustracja własna — dokładny wykres do tego konkretnego zadania (nie znaleziono gotowego obrazka z tymi samymi liczbami).*
-
-</div>
 
 (odcinek 0–4 s: prędkość rośnie liniowo od 0 do 8 m/s; odcinek 4–10 s: prędkość stała 8 m/s; odcinek 10–12 s: prędkość maleje liniowo do 0)
 

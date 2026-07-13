@@ -1,0 +1,24 @@
+<svg width="320" height="280" viewBox="0 0 320 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Naczynie z cieczą, głębokość h i strumienie wypływające z otworów na różnych głębokościach">
+  <line x1="80" y1="20" x2="80" y2="220" stroke="#1b2b34" stroke-width="2"/>
+  <line x1="260" y1="20" x2="260" y2="220" stroke="#1b2b34" stroke-width="2"/>
+  <line x1="80" y1="220" x2="260" y2="220" stroke="#1b2b34" stroke-width="2"/>
+  <rect x="82" y="30" width="176" height="188" fill="#bfe3f5" opacity="0.8"/>
+  <line x1="82" y1="30" x2="258" y2="30" stroke="#1b3a4b" stroke-width="1.5" stroke-dasharray="4,3"/>
+
+  <!-- otwory i strumienie: krotszy = mniejsza glebokosc, dluzszy = wieksza glebokosc -->
+  <circle cx="80" cy="90" r="3" fill="#1b2b34"/>
+  <path d="M80,90 Q50,92 38,98" stroke="#1b3a4b" stroke-width="2" fill="none"/>
+  <circle cx="80" cy="140" r="3" fill="#1b2b34"/>
+  <path d="M80,140 Q40,143 20,158" stroke="#1b3a4b" stroke-width="2" fill="none"/>
+  <circle cx="80" cy="190" r="3" fill="#1b2b34"/>
+  <path d="M80,190 Q30,196 6,218" stroke="#1b3a4b" stroke-width="2" fill="none"/>
+
+  <!-- linia glebokosci h -->
+  <line x1="190" y1="30" x2="190" y2="140" stroke="#1b2b34" stroke-width="1" stroke-dasharray="3,3"/>
+  <line x1="185" y1="30" x2="195" y2="30" stroke="#1b2b34" stroke-width="1"/>
+  <line x1="185" y1="140" x2="195" y2="140" stroke="#1b2b34" stroke-width="1"/>
+  <text x="198" y="90" font-size="14" font-family="sans-serif" fill="#1b2b34">h</text>
+
+  <text x="160" y="245" font-size="13" font-family="sans-serif" fill="#1b2b34" text-anchor="middle">p = ρ · g · h — im głębiej,</text>
+  <text x="160" y="263" font-size="13" font-family="sans-serif" fill="#1b2b34" text-anchor="middle">tym większe ciśnienie</text>
+</svg>

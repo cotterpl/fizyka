@@ -1,0 +1,22 @@
+<svg viewBox="0 0 460 220" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:520px" role="img" aria-label="Dwa przykłady sił współliniowych: a) dwie siły 10 N w przeciwne strony równoważą się, b) siły 15 N i 5 N w przeciwne strony dają wypadkową 10 N">
+  <defs>
+    <marker id="grot4" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#333"/>
+    </marker>
+  </defs>
+  <text x="10" y="20" font-size="14" font-weight="bold">a) siły równoważące się (Fw = 0)</text>
+  <circle cx="120" cy="60" r="8" fill="#333"/>
+  <line x1="120" y1="60" x2="200" y2="60" stroke="#27ae60" stroke-width="3" marker-end="url(#grot4)"/>
+  <text x="130" y="50" font-size="13" fill="#27ae60">F1 = 10 N</text>
+  <line x1="120" y1="60" x2="40" y2="60" stroke="#c0392b" stroke-width="3" marker-end="url(#grot4)"/>
+  <text x="15" y="50" font-size="13" fill="#c0392b">F2 = 10 N</text>
+
+  <text x="10" y="130" font-size="14" font-weight="bold">b) siła wypadkowa (Fw ≠ 0)</text>
+  <circle cx="120" cy="170" r="8" fill="#333"/>
+  <line x1="120" y1="170" x2="230" y2="170" stroke="#27ae60" stroke-width="3" marker-end="url(#grot4)"/>
+  <text x="130" y="160" font-size="13" fill="#27ae60">F1 = 15 N</text>
+  <line x1="120" y1="170" x2="60" y2="170" stroke="#c0392b" stroke-width="3" marker-end="url(#grot4)"/>
+  <text x="15" y="195" font-size="13" fill="#c0392b">F2 = 5 N</text>
+  <line x1="250" y1="200" x2="330" y2="200" stroke="#2874a6" stroke-width="4" marker-end="url(#grot4)"/>
+  <text x="255" y="215" font-size="13" fill="#2874a6">Fw = 10 N (w prawo)</text>
+</svg>
