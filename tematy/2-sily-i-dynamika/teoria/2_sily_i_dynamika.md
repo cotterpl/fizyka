@@ -32,7 +32,7 @@ Siłę rysujemy jako **strzałkę**: długość strzałki odpowiada wartości si
   <line x1="40" y1="110" x2="330" y2="60" stroke="#c0392b" stroke-width="4" marker-end="url(#grot1)"/>
   <text x="150" y="70" font-size="20" fill="#c0392b">F = 5 N</text>
   <text x="20" y="135" font-size="14" fill="#333">punkt przyłożenia</text>
-  <path d="M 70 108 A 30 30 0 0 0 90 88" fill="none" stroke="#333" stroke-width="1.5"/>
+  <path d="M 68 110 A 28 28 0 0 0 67.6 105.2" fill="none" stroke="#333" stroke-width="1.5"/>
   <text x="95" y="95" font-size="13" fill="#333">kąt (kierunek)</text>
 </svg>
 </div>
@@ -72,32 +72,11 @@ W przyrodzie działa wiele rodzajów sił. Oto te najważniejsze na etapie szkol
 
 ### Rysunek: siły działające na klocek leżący na stole (z tarciem)
 
-<div>
-<svg viewBox="0 0 420 230" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:480px">
-  <defs>
-    <marker id="grot2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
-      <path d="M0,0 L9,3 L0,6 Z" fill="#2c3e50"/>
-    </marker>
-  </defs>
-  <line x1="20" y1="170" x2="400" y2="170" stroke="#555" stroke-width="3"/>
-  <rect x="150" y="110" width="100" height="60" fill="#e6b95c" stroke="#7a5a20" stroke-width="2"/>
-  <text x="175" y="145" font-size="16" fill="#333">klocek</text>
+![Siły działające na klocek leżący na stole: siła docisku/ciągnąca FA (pozioma, w prawo), siła tarcia Ffr (pozioma, w lewo, przeciwna do ruchu), siła reakcji podłoża FN (pionowo w górę) oraz ciężar FW (pionowo w dół)](ilustracje/sily-na-klocku-z-tarciem.svg)
 
-  <line x1="200" y1="110" x2="200" y2="40" stroke="#2c3e50" stroke-width="3" marker-end="url(#grot2)"/>
-  <text x="205" y="55" font-size="14" fill="#2c3e50">N (reakcja podłoża)</text>
+*Źródło: [Maxmath12, „Friction diagram.svg”](https://commons.wikimedia.org/wiki/File:Friction_diagram.svg), domena publiczna (CC0 1.0)*
 
-  <line x1="200" y1="170" x2="200" y2="215" stroke="#c0392b" stroke-width="3" marker-end="url(#grot2)"/>
-  <text x="205" y="212" font-size="14" fill="#c0392b">Fg (ciężar)</text>
-
-  <line x1="150" y1="140" x2="90" y2="140" stroke="#27ae60" stroke-width="3" marker-end="url(#grot2)"/>
-  <text x="55" y="130" font-size="14" fill="#27ae60">T (tarcie)</text>
-
-  <line x1="250" y1="140" x2="330" y2="140" stroke="#8e44ad" stroke-width="3" marker-end="url(#grot2)"/>
-  <text x="255" y="130" font-size="14" fill="#8e44ad">F (siła ciągnąca)</text>
-</svg>
-</div>
-
-*Klocek ciągnięty w prawo siłą F. Siła tarcia T działa w przeciwną stronę (w lewo), ciężar Fg ciągnie w dół, a reakcja podłoża N działa w górę.*
+*Klocek ciągnięty siłą FA. Siła tarcia Ffr działa w przeciwną stronę, ciężar FW ciągnie w dół, a reakcja podłoża FN działa w górę (w tekście powyżej te same siły są oznaczone jako F, T, Fg i N).*
 
 ### Przykład
 

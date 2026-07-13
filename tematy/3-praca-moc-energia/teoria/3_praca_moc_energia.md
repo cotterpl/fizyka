@@ -116,29 +116,10 @@ gdzie r₁, r₂ to ramiona sił F₁ i F₂.
 
 <div align="center">
 
-<svg viewBox="0 0 360 200" width="100%" style="max-width:460px" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="360" height="200" fill="white" stroke="#dcdcdc"/>
-  <!-- belka dźwigni -->
-  <line x1="40" y1="100" x2="320" y2="100" stroke="#5c3a21" stroke-width="6" stroke-linecap="round"/>
-  <!-- oś obrotu / trójkąt podparcia -->
-  <polygon points="180,100 165,130 195,130" fill="#495057"/>
-  <text x="180" y="150" font-size="11" text-anchor="middle" fill="#495057">oś obrotu</text>
-  <!-- ramiona -->
-  <line x1="40" y1="112" x2="178" y2="112" stroke="#868e96" stroke-width="1" stroke-dasharray="3,3"/>
-  <line x1="182" y1="112" x2="320" y2="112" stroke="#868e96" stroke-width="1" stroke-dasharray="3,3"/>
-  <text x="110" y="127" font-size="13" text-anchor="middle" fill="#333">r₁</text>
-  <text x="250" y="127" font-size="13" text-anchor="middle" fill="#333">r₂</text>
-  <!-- siły -->
-  <line x1="40" y1="100" x2="40" y2="45" stroke="#e03131" stroke-width="3"/>
-  <polygon points="40,45 35,55 45,55" fill="#e03131"/>
-  <text x="40" y="35" font-size="14" text-anchor="middle" fill="#e03131" font-weight="bold">F₁</text>
-  <line x1="320" y1="100" x2="320" y2="55" stroke="#1971c2" stroke-width="3"/>
-  <polygon points="320,55 315,65 325,65" fill="#1971c2"/>
-  <text x="320" y="45" font-size="14" text-anchor="middle" fill="#1971c2" font-weight="bold">F₂</text>
-  <text x="180" y="20" font-size="13" text-anchor="middle" fill="#333">warunek równowagi: F₁·r₁ = F₂·r₂</text>
-</svg>
+![Dźwignia dwustronna — belka z osią obrotu (trójkątem podparcia) między punktami przyłożenia sił F₁ i F₂, z zaznaczonymi ramionami r₁ i r₂](ilustracje/dzwignia-dwustronna.svg)
 
-*Rysunek 2. Dźwignia dwustronna — oś obrotu leży między punktami przyłożenia sił F₁ i F₂. Krótsze ramię wymaga większej siły.*
+*Rysunek 2. Dźwignia dwustronna — oś obrotu leży między punktami przyłożenia sił F₁ i F₂ (tu oznaczonych jako F₁, F₂, a ramiona jako r₁, r₂). Krótsze ramię wymaga większej siły: F₁ · r₁ = F₂ · r₂.*
+*Źródło: [File:FirstClassLever.svg](https://commons.wikimedia.org/wiki/File:FirstClassLever.svg), autor: Mpfiz, domena publiczna (Wikimedia Commons).*
 
 </div>
 
@@ -149,19 +130,31 @@ Im krótsze ramię, tym większa musi być siła, żeby "wygrać" z siłą po dr
 - **Blok stały (nieruchomy)** — kółko z rowkiem, osadzone nieruchomo (np. na maszcie flagowym). Nie zmniejsza potrzebnej siły (F = Q, gdzie Q to ciężar), a jedynie **zmienia kierunek działania siły** — wygodniej jest ciągnąć linę w dół, niż podnosić ciężar w górę gołymi rękami.
 - **Blok ruchomy** — kółko zawieszone na ciężarze, które porusza się razem z nim. Zmniejsza potrzebną siłę **dwukrotnie** (F = Q/2), ale zgodnie ze złotą regułą mechaniki trzeba pociągnąć za linę na drodze **dwa razy dłuższej** niż wysokość, na jaką podnosimy ciężar.
 
-```
-blok stały:                  blok ruchomy:
-      ┌─┐                         ┌─┐  (zaczep na suficie)
-   ───┤O├───  (lina)              │ │
-      └─┘                         │ │
-       │                         ┌┴─┴┐
-       │  F = Q                 │ O │  ← blok jedzie razem z ciężarem
-      ┌┴┐                       └┬─┬┘
-      │Q│                        │ │  F = Q/2, droga liny = 2h
-      └─┘                       ┌┴─┴┐
-                                 │ Q │
-                                 └───┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+![Blok stały (nieruchomy) — kółko osadzone na stałym wsporniku, lina przełożona przez nie łączy siłę P z ciężarem Q](ilustracje/blok-nieruchomy.svg)
+
+**Blok stały**: F = Q (zmienia tylko kierunek siły)
+
+</td>
+<td align="center">
+
+![Blok ruchomy — kółko zawieszone na ciężarze Q, jeden koniec liny przymocowany do sufitu, drugi koniec (siła P) ciągnięty w górę](ilustracje/blok-ruchomy.svg)
+
+**Blok ruchomy**: F = Q/2 (kosztem 2 razy dłuższej drogi liny)
+
+</td>
+</tr>
+</table>
+
+*Rysunek. Porównanie bloku stałego i bloku ruchomego (na ilustracjach siła ciągnąca oznaczona jest jako P, a ciężar jako Q).*
+*Źródło: [File:Krazek staly.svg](https://commons.wikimedia.org/wiki/File:Krazek_staly.svg) i [File:Krazek przesuwny.svg](https://commons.wikimedia.org/wiki/File:Krazek_przesuwny.svg), wersja rastrowa: Ciszewski W, wektoryzacja: Krzysztof Zajączkowski, domena publiczna (Wikimedia Commons).*
+
+</div>
 
 ### Kołowrotek
 
@@ -177,28 +170,10 @@ Im dłuższa korba (większe R) w porównaniu do promienia walca r, tym mniejsze
 
 <div align="center">
 
-<svg viewBox="0 0 340 220" width="100%" style="max-width:440px" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="340" height="220" fill="white" stroke="#dcdcdc"/>
-  <!-- trójkąt równi -->
-  <polygon points="30,190 300,190 300,60" fill="#e9ecef" stroke="#495057" stroke-width="2"/>
-  <!-- blok na równi -->
-  <rect x="175" y="108" width="34" height="24" fill="#f08c00" stroke="#5c3a21" stroke-width="1.5" transform="rotate(-25 192 120)"/>
-  <!-- siła ciężkości mg -->
-  <line x1="192" y1="120" x2="192" y2="175" stroke="#e03131" stroke-width="2.5"/>
-  <polygon points="192,175 187,165 197,165" fill="#e03131"/>
-  <text x="204" y="175" font-size="13" fill="#e03131" font-weight="bold">Q = mg</text>
-  <!-- siła wzdłuż równi F -->
-  <line x1="192" y1="120" x2="150" y2="150" stroke="#1971c2" stroke-width="2.5"/>
-  <polygon points="150,150 162,148 158,158" fill="#1971c2"/>
-  <text x="120" y="150" font-size="13" fill="#1971c2" font-weight="bold">F</text>
-  <!-- oznaczenia s, h, kąt -->
-  <text x="150" y="205" font-size="13" fill="#333">s (długość równi)</text>
-  <text x="308" y="125" font-size="13" fill="#333">h</text>
-  <line x1="300" y1="190" x2="300" y2="60" stroke="#868e96" stroke-width="1" stroke-dasharray="3,3"/>
-  <text x="55" y="182" font-size="13" fill="#333">α</text>
-</svg>
+![Równia pochyła — rozkład siły ciężkości F_G na składową prostopadłą do równi F_N (siłę nacisku) i składową wzdłuż równi F_H (którą trzeba pokonać, ciągnąc ciało pod górę), z zaznaczoną wysokością h, długością l i kątem nachylenia α](ilustracje/rownia-pochyla-sily.svg)
 
-*Rysunek 3. Równia pochyła. Ciężar Q = mg da się rozłożyć na składową wzdłuż równi (którą trzeba pokonać siłą F) i składową prostopadłą do równi.*
+*Rysunek 3. Równia pochyła. Ciężar Q = mg (na ilustracji: F_G) rozkłada się na składową prostopadłą do równi F_N (siłę nacisku na równię) oraz składową wzdłuż równi F_H — to właśnie tej składowej musi przeciwstawić się siła ciągnąca F, żeby wciągnąć ciało na szczyt równi (h — wysokość, l — długość równi, α — kąt nachylenia).*
+*Źródło: [File:Inclined plane with forces.svg](https://commons.wikimedia.org/wiki/File:Inclined_plane_with_forces.svg), autor: Klaus-Dieter Keller, licencja CC0 (domena publiczna, Wikimedia Commons).*
 
 </div>
 
@@ -326,10 +301,10 @@ To jedno z najczęściej sprawdzanych praw na konkursie zDolny Ślązak — zwł
   <text x="162" y="65" font-size="10" text-anchor="middle" fill="#333">Ep=100%</text>
   <text x="162" y="77" font-size="10" text-anchor="middle" fill="#333">Ek=0%</text>
   <!-- słupki energii dla B -->
-  <rect x="230" y="35" width="24" height="20" fill="#4dabf7"/>
-  <rect x="230" y="55" width="24" height="20" fill="#fa5252"/>
-  <text x="242" y="85" font-size="10" text-anchor="middle" fill="#333">Ep=50%</text>
-  <text x="242" y="97" font-size="10" text-anchor="middle" fill="#333">Ek=50%</text>
+  <rect x="230" y="15" width="24" height="20" fill="#4dabf7"/>
+  <rect x="230" y="35" width="24" height="20" fill="#fa5252"/>
+  <text x="242" y="65" font-size="10" text-anchor="middle" fill="#333">Ep=50%</text>
+  <text x="242" y="77" font-size="10" text-anchor="middle" fill="#333">Ek=50%</text>
   <!-- słupki energii dla C -->
   <rect x="310" y="55" width="24" height="0" fill="#4dabf7"/>
   <rect x="310" y="15" width="24" height="40" fill="#fa5252"/>

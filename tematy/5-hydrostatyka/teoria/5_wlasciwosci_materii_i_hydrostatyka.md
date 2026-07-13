@@ -44,14 +44,13 @@ Przykładowe gęstości (warto je znać w przybliżeniu):
 <div align="center">
 
 <svg width="300" height="230" viewBox="0 0 300 230" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sześcian o krawędzi a i masie m">
-  <polygon points="70,190 70,90 190,90 190,190" fill="#cfe8f3" stroke="#1b2b34" stroke-width="2"/>
-  <polygon points="70,90 110,50 230,50 190,90" fill="#a9d4e6" stroke="#1b2b34" stroke-width="2"/>
-  <polygon points="190,90 230,50 230,150 190,190" fill="#8bbedc" stroke="#1b2b34" stroke-width="2"/>
-  <text x="118" y="148" font-size="22" font-family="sans-serif" fill="#1b2b34">m</text>
-  <line x1="70" y1="75" x2="110" y2="35" stroke="#1b2b34" stroke-width="1"/>
-  <text x="82" y="68" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
-  <text x="235" y="105" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
-  <text x="95" y="205" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
+  <polygon points="60,200 60,80 180,80 180,200" fill="#cfe8f3" stroke="#1b2b34" stroke-width="2"/>
+  <polygon points="60,80 110,30 230,30 180,80" fill="#a9d4e6" stroke="#1b2b34" stroke-width="2"/>
+  <polygon points="180,80 230,30 230,150 180,200" fill="#8bbedc" stroke="#1b2b34" stroke-width="2"/>
+  <text x="110" y="148" font-size="22" font-family="sans-serif" fill="#1b2b34">m</text>
+  <text x="80" y="58" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
+  <text x="236" y="95" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
+  <text x="115" y="218" font-size="14" font-family="sans-serif" fill="#1b2b34">a</text>
 </svg>
 <p><em>Rys. 1. Sześcian o krawędzi <code>a</code> i masie <code>m</code>. Objętość V = a · a · a = a³, a gęstość d = m / V.</em></p>
 </div>
@@ -100,38 +99,13 @@ gdzie `F` to siła, a `l` — długość linii styku. Jednostką σ w układzie 
 
 <div align="center">
 
-<svg width="420" height="220" viewBox="0 0 420 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kropla wody z napięciem powierzchniowym oraz owad na powierzchni wody">
-  <defs>
-    <marker id="arrow1" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto">
-      <path d="M0,0 L8,4 L0,8 Z" fill="#1b2b34"/>
-    </marker>
-  </defs>
+<img src="ilustracje/czasteczki_w_kropli_napiecie_powierzchniowe.svg" alt="Siły działające na cząsteczkę na powierzchni kropli i cząsteczkę wewnątrz kropli" width="320">
+<p><em>Rys. 2a. Cząsteczka wewnątrz cieczy jest ciągnięta równomiernie ze wszystkich stron (siły się równoważą). Cząsteczka na powierzchni kropli ma sąsiadki tylko z boków i od spodu, więc siła wypadkowa ciągnie ją do wnętrza — dlatego kropla przyjmuje kształt zbliżony do kuli.</em></p>
+<p><em>Źródło: Booyabazooka, domena publiczna, <a href="https://commons.wikimedia.org/wiki/File:Wassermolek%C3%BCleInTr%C3%B6pfchen.svg">Wikimedia Commons</a></em></p>
 
-  <!-- kropla -->
-  <ellipse cx="105" cy="115" rx="60" ry="65" fill="#bfe3f5" stroke="#1b3a4b" stroke-width="2"/>
-  <line x1="105" y1="65" x2="105" y2="90" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="105" y1="165" x2="105" y2="140" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="55" y1="115" x2="80" y2="115" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="155" y1="115" x2="130" y2="115" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="65" y1="75" x2="88" y2="95" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="145" y1="75" x2="122" y2="95" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="65" y1="155" x2="88" y2="135" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <line x1="145" y1="155" x2="122" y2="135" stroke="#1b2b34" stroke-width="2" marker-end="url(#arrow1)"/>
-  <text x="60" y="205" font-size="12" font-family="sans-serif" fill="#1b2b34">siły spójności ciągną</text>
-  <text x="60" y="219" font-size="12" font-family="sans-serif" fill="#1b2b34">cząsteczki do środka</text>
-
-  <!-- owad na wodzie -->
-  <path d="M240,150 Q265,145 280,155 Q295,145 320,150 Q335,145 360,150" stroke="#1b3a4b" stroke-width="2" fill="none"/>
-  <line x1="360" y1="150" x2="400" y2="150" stroke="#1b3a4b" stroke-width="2"/>
-  <line x1="220" y1="150" x2="240" y2="150" stroke="#1b3a4b" stroke-width="2"/>
-  <ellipse cx="290" cy="120" rx="22" ry="10" fill="#8a6d3b" stroke="#1b2b34" stroke-width="1.5"/>
-  <line x1="265" y1="155" x2="278" y2="128" stroke="#1b2b34" stroke-width="1.5"/>
-  <line x1="290" y1="155" x2="290" y2="128" stroke="#1b2b34" stroke-width="1.5"/>
-  <line x1="320" y1="150" x2="302" y2="128" stroke="#1b2b34" stroke-width="1.5"/>
-  <text x="235" y="185" font-size="12" font-family="sans-serif" fill="#1b2b34">błona powierzchniowa</text>
-  <text x="245" y="200" font-size="12" font-family="sans-serif" fill="#1b2b34">utrzymuje owada</text>
-</svg>
-<p><em>Rys. 2. Po lewej: siły spójności ciągną cząsteczki na powierzchni kropli do wnętrza, dlatego kropla przyjmuje kształt zbliżony do kuli. Po prawej: dzięki napięciu powierzchniowemu lekki owad może „stać” na wodzie, mimo że jego ciało jest gęstsze od wody.</em></p>
+<img src="ilustracje/nartnik_napiecie_powierzchniowe.jpg" alt="Nartnik (owad) stojący na powierzchni wody, widoczne zagłębienia (menisk) wokół odnóży powstałe dzięki napięciu powierzchniowemu" width="420">
+<p><em>Rys. 2b. Nartnik — mimo że jego ciało jest gęstsze od wody — „stoi” na jej powierzchni. Wyraźnie widać zagłębienia („dołki”) w błonie powierzchniowej wokół każdego odnóża; to napięcie powierzchniowe, a nie siła wyporu, utrzymuje owada nad wodą.</em></p>
+<p><em>Źródło: Phyzome (Tim McCormack), licencja CC BY-SA 3.0, <a href="https://commons.wikimedia.org/wiki/File:Water_strider_-_surface_tension.jpg">Wikimedia Commons</a></em></p>
 </div>
 
 ### Przykład (obliczanie siły napięcia powierzchniowego)
@@ -254,27 +228,9 @@ gdzie:
 
 <div align="center">
 
-<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ciało zanurzone w cieczy z zaznaczoną siłą wyporu i ciężarem">
-  <defs>
-    <marker id="arrow2" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
-      <path d="M0,0 L10,5 L0,10 Z" fill="#1b2b34"/>
-    </marker>
-  </defs>
-  <line x1="30" y1="20" x2="30" y2="210" stroke="#1b2b34" stroke-width="2"/>
-  <line x1="210" y1="20" x2="210" y2="210" stroke="#1b2b34" stroke-width="2"/>
-  <line x1="30" y1="210" x2="210" y2="210" stroke="#1b2b34" stroke-width="2"/>
-  <rect x="32" y="30" width="176" height="178" fill="#bfe3f5" opacity="0.8"/>
-  <line x1="32" y1="30" x2="208" y2="30" stroke="#1b3a4b" stroke-width="1.5" stroke-dasharray="4,3"/>
-
-  <rect x="95" y="100" width="50" height="50" fill="#9a9a9a" stroke="#1b2b34" stroke-width="2"/>
-
-  <line x1="120" y1="95" x2="120" y2="50" stroke="#0b6e2b" stroke-width="3" marker-end="url(#arrow2)"/>
-  <text x="128" y="65" font-size="13" font-family="sans-serif" fill="#0b6e2b">F_w (wypór)</text>
-
-  <line x1="120" y1="155" x2="120" y2="195" stroke="#a11414" stroke-width="3" marker-end="url(#arrow2)"/>
-  <text x="128" y="190" font-size="13" font-family="sans-serif" fill="#a11414">Q (ciężar)</text>
-</svg>
-<p><em>Rys. 4. Ciało zanurzone w cieczy. Siła wyporu F_w skierowana jest w górę, a ciężar ciała Q — w dół. To, czy ciało tonie, pływa, czy unosi się w miejscu, zależy od tego, która z tych sił jest większa (albo czy są równe).</em></p>
+<img src="ilustracje/sila_wyporu_archimedes.svg" alt="Ciało zanurzone w cieczy z zaznaczoną siłą wyporu F_A i ciężarem F_G, porównane z wydzieloną porcją samej cieczy o takim samym kształcie" width="480">
+<p><em>Rys. 4. (a) Wydzielona w myślach porcja samej cieczy jest w równowadze, więc siła wyporu F_A działająca na nią równa się jej ciężarowi F_G. (b) Ciało o takim samym kształcie i takiej samej objętości zanurzenia doznaje dokładnie takiej samej siły wyporu F_A (skierowanej w górę) — to istota prawa Archimedesa. To, czy ciało tonie, pływa, czy „zawisa”, zależy od tego, czy F_A jest mniejsza, większa, czy równa jego własnemu ciężarowi.</em></p>
+<p><em>Źródło: MikeRun, licencja CC BY-SA 4.0, <a href="https://commons.wikimedia.org/wiki/File:Buoyancy-archimedes-principle.svg">Wikimedia Commons</a></em></p>
 </div>
 
 ### Warunki pływania ciał
@@ -287,28 +243,9 @@ Porównujemy ciężar ciała `Q = m · g = ρ_ciała · V · g` z siłą wyporu 
 
 <div align="center">
 
-<svg width="380" height="240" viewBox="0 0 380 240" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Trzy ciała o różnej gęstości w wodzie — pływające, zawieszone i tonące">
-  <line x1="20" y1="20" x2="20" y2="220" stroke="#1b2b34" stroke-width="2"/>
-  <line x1="360" y1="20" x2="360" y2="220" stroke="#1b2b34" stroke-width="2"/>
-  <line x1="20" y1="220" x2="360" y2="220" stroke="#1b2b34" stroke-width="2"/>
-  <rect x="22" y="60" width="336" height="158" fill="#bfe3f5" opacity="0.8"/>
-  <line x1="22" y1="60" x2="358" y2="60" stroke="#1b3a4b" stroke-width="1.5" stroke-dasharray="4,3"/>
-
-  <!-- cialo A: plywa, czesciowo nad powierzchnia -->
-  <rect x="60" y="40" width="60" height="45" fill="#d9c08a" stroke="#1b2b34" stroke-width="2"/>
-  <text x="62" y="105" font-size="12" font-family="sans-serif" fill="#1b2b34">A: pływa</text>
-  <text x="55" y="120" font-size="11" font-family="sans-serif" fill="#1b2b34">(ρ_A &lt; ρ_wody)</text>
-
-  <!-- cialo B: zawisa w srodku cieczy -->
-  <rect x="160" y="120" width="55" height="45" fill="#a8a8d8" stroke="#1b2b34" stroke-width="2"/>
-  <text x="150" y="180" font-size="12" font-family="sans-serif" fill="#1b2b34">B: zawisa</text>
-  <text x="148" y="195" font-size="11" font-family="sans-serif" fill="#1b2b34">(ρ_B = ρ_wody)</text>
-
-  <!-- cialo C: lezy na dnie -->
-  <rect x="270" y="180" width="55" height="40" fill="#707070" stroke="#1b2b34" stroke-width="2"/>
-  <text x="270" y="235" font-size="12" font-family="sans-serif" fill="#1b2b34">C: tonie (ρ_C &gt; ρ_wody)</text>
-</svg>
-<p><em>Rys. 5. Trzy ciała o różnych gęstościach w tym samym naczyniu z wodą: A pływa (wystaje ponad powierzchnię), B „zawisa” wewnątrz cieczy, C leży na dnie.</em></p>
+<img src="ilustracje/plywanie_zawieszanie_toniecie.svg" alt="Cztery ciała o różnej gęstości w wodzie: tonące (F_G > F_A), zawieszone w środku cieczy (F_G = F_A przy pełnym zanurzeniu), unoszące się ku powierzchni (chwilowo F_G < F_A) oraz pływające w równowadze z częściowym zanurzeniem (F_G = F_A)" width="480">
+<p><em>Rys. 5. Cztery przykłady ciał o różnych gęstościach w wodzie. Od lewej: ciało gęstsze od wody tonie, bo nawet w pełni zanurzone ma F_G &gt; F_A. Drugie ciało ma taką samą gęstość jak woda, więc w pełni zanurzone „zawisa” w równowadze (F_G = F_A) na dowolnej głębokości. Trzecie i czwarte ciało są lżejsze od wody — trzecie (częściowo wynurzone) ma chwilowo F_G &lt; F_A, więc wypływa jeszcze wyżej, aż osiągnie równowagę pływania, w której ponownie F_G = F_A (czwarte ciało) — zanurzona jest wtedy tylko taka część objętości, jaka jest potrzebna, by wyporność zrównoważyła cały ciężar.</em></p>
+<p><em>Źródło: MikeRun, licencja CC BY-SA 4.0, <a href="https://commons.wikimedia.org/wiki/File:Floating-and-sinking-2.svg">Wikimedia Commons</a></em></p>
 </div>
 
 ### Przykład 1 (czy ciało tonie, czy pływa?)

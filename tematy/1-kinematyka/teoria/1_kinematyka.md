@@ -27,29 +27,9 @@ Co ciekawe, **ten sam ruch może mieć różny tor w zależności od układu odn
 
 Wyobraź sobie osobę w jadącym pociągu, która upuszcza piłeczkę. Zobaczmy, jak wygląda tor lotu piłeczki dla dwóch różnych obserwatorów.
 
-```
-UKŁAD ODNIESIENIA: WNĘTRZE POCIĄGU (pasażer siedzi w wagonie)
-                 
-      ┌───────────────────┐
-      │         o          │   o — piłeczka w chwili puszczenia
-      │         |          │   
-      │         |          │   TOR: linia PROSTA, pionowa
-      │         |          │   (piłeczka spada "prosto w dół")
-      │         ●          │
-      └───────────────────┘
+![Tor lotu piłeczki upuszczonej w jadącym pociągu — widziany z wnętrza pociągu (linia prosta) i z peronu (łuk)](ilustracje/tor-pilka-pociag-peron.svg)
 
-UKŁAD ODNIESIENIA: PERON (obserwator stoi nieruchomo obok torów)
-
-      pociąg jedzie →→→→→→→
-      ┌───────────────────┐
-      │      o             │    o — start piłeczki
-      │        `.          │
-      │          `.        │    TOR: łuk (krzywa),
-      │            `.      │    bo piłeczka leci jednocześnie
-      │              ●     │    w dół i "do przodu" razem z pociągiem
-      └───────────────────┘
-      ══════════════════════  peron
-```
+*Ilustracja własna (nie znaleziono w otwartych zasobach gotowego diagramu odpowiadającego dokładnie temu scenariuszowi) — schemat klasycznego eksperymentu myślowego: piłeczka upuszczona w jadącym pociągu, widziana z dwóch układów odniesienia.*
 
 Dla pasażera tor jest prostą pionową linią. Dla obserwatora na peronie — łukiem (krzywą), bo piłeczka porusza się jednocześnie w dół i do przodu (razem z pociągiem). **Oba opisy są prawdziwe** — różnią się tylko układem odniesienia.
 
@@ -102,22 +82,9 @@ To bardzo częsty typ zadania na konkursach — **prędkość średnia to zawsze
 
 #### Ilustracja: wykres drogi od czasu s(t) dla ruchu jednostajnego
 
-```
- s [m]
- 20 |                        ●
-    |                   ╱
- 15 |              ╱
-    |         ╱
- 10 |    ╱
-    | ╱
-  5 |●
-    |
-  0 +----+----+----+----+----+----  t [s]
-    0    1    2    3    4    5
+![Wykresy s(t), v(t) i a(t) dla ruchu jednostajnego — droga rośnie liniowo, prędkość jest stała, przyspieszenie równe zeru](ilustracje/wykres-s-v-a-ruch-jednostajny.svg)
 
-  Wykres s(t) jest LINIĄ PROSTĄ — to znak rozpoznawczy ruchu jednostajnego!
-  Nachylenie (stromość) tej prostej to właśnie wartość prędkości.
-```
+*Źródło: MikeRun, [Uniform-motion.svg](https://commons.wikimedia.org/wiki/File:Uniform-motion.svg), licencja CC BY-SA 4.0, Wikimedia Commons. (Ilustracja pokazuje od razu trzy powiązane wykresy tego samego ruchu — dla ruchu jednostajnego najważniejszy jest tu górny wykres s(t): linia prosta, czyli znak rozpoznawczy ruchu jednostajnego. Nachylenie tej prostej to właśnie wartość prędkości.)*
 
 Im bardziej stroma prosta, tym większa prędkość. Prosta pozioma (nachylenie = 0) oznaczałaby, że ciało stoi w miejscu.
 
@@ -177,19 +144,9 @@ Przyspieszenie wyrażamy w **metrach na sekundę do kwadratu (m/s²)**. Oznacza 
 
 #### Ilustracja: wykres prędkości od czasu v(t) — pole pod wykresem to droga!
 
-```
- v [m/s]
- 8 |                          ●
-   |                     ╱▓▓▓│
-   |                ╱▓▓▓▓▓▓▓│
- 4 |           ╱▓▓▓▓▓▓▓▓▓▓▓▓│
-   |      ╱▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓│
- 0 ●▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓+----  t [s]
-   0      1      2      3      4
+![Wykresy s(t), v(t) i a(t) dla ruchu jednostajnie przyspieszonego — środkowy wykres v(t) pokazuje zacieniowane pole trójkąta równe drodze s = a·t²/2](ilustracje/wykres-s-v-a-ruch-jednostajnie-przyspieszony.svg)
 
-  Zakreskowane (▓) pole trójkąta pod prostą v(t) = DROGA przebyta w tym czasie!
-  Pole trójkąta = 1/2 · podstawa · wysokość = 1/2 · 4 s · 8 m/s = 16 m
-```
+*Źródło: MikeRun, [Uniform-acceleration.svg](https://commons.wikimedia.org/wiki/File:Uniform-acceleration.svg), licencja CC BY-SA 4.0, Wikimedia Commons. (Najważniejszy jest tu środkowy wykres v(t) — zacieniowany trójkąt pod prostą to pole równe drodze. Działa to dokładnie tak samo jak dla rowerzysty z przykładu poniżej, gdzie v rośnie od 0 do 8 m/s w ciągu 4 s.)*
 
 To bardzo ważna zasada, wykorzystywana w wielu zadaniach konkursowych: **pole powierzchni pod wykresem v(t) (między wykresem a osią czasu) zawsze jest równe drodze przebytej w danym przedziale czasu** — niezależnie od tego, czy ruch jest jednostajny, przyspieszony, czy opóźniony.
 
@@ -220,20 +177,9 @@ Wykresy to "język", którym fizycy opisują ruch bez słów. Warto znać, jak w
 
 #### Ilustracja: trzy wykresy obok siebie dla ruchu jednostajnie przyspieszonego
 
-```
-     s(t)                    v(t)                    a(t)
-  s |                      v |                      a |
-    |                 ●      |              ●         |
-    |             ●          |         ●               |________●________
-    |         ●              |    ●                    |
-    |     ●                  |●                        |
-    | ●                      |                          |
-    +------------ t          +------------ t            +------------ t
+![Trzy wykresy s(t), v(t), a(t) dla ruchu jednostajnie przyspieszonego — parabola, prosta rosnąca i linia pozioma](ilustracje/wykres-s-v-a-ruch-jednostajnie-przyspieszony.svg)
 
-  droga rośnie coraz          prędkość rośnie            przyspieszenie
-  szybciej — krzywa           liniowo — linia prosta      stałe — linia pozioma
-  (parabola)                  (nachylona)                 (na wysokości a)
-```
+*Źródło: MikeRun, [Uniform-acceleration.svg](https://commons.wikimedia.org/wiki/File:Uniform-acceleration.svg), licencja CC BY-SA 4.0, Wikimedia Commons. Droga rośnie coraz szybciej (parabola), prędkość rośnie liniowo (prosta nachylona), a przyspieszenie jest stałe (linia pozioma).*
 
 **Jak czytać takie wykresy w zadaniach:**
 - Z wykresu **s(t)**: prędkość odpowiada nachyleniu (stromości) krzywej w danym momencie.
@@ -327,22 +273,17 @@ Typowe doświadczenie: puszczamy wózek (albo kulkę) na równi pochyłej i mier
 
 #### Ilustracja: pomiar prędkości za pomocą bramek fotokomórkowych
 
-```
-Tor pomiarowy (równia pochyła) z dwiema bramkami fotokomórkowymi F1 i F2:
+![Tor pomiarowy z bramkami fotokomórkowymi F1 i F2 — wózek przejeżdża kolejno przez obie bramki](ilustracje/bramki-fotokomorkowe.svg)
 
-  START                    F1                          F2
-    |                       |                             |
-    |------ d = 1,0 m ------|------- d = 1,0 m -----------|
-    |                       |                             |
-  wózek  ▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶▶
+*Ilustracja własna (nie znaleziono w otwartych zasobach gotowego diagramu odpowiadającego dokładnie temu układowi pomiarowemu) — schemat toru pomiarowego z dwiema bramkami fotokomórkowymi.*
 
-  Elektroniczny stoper zatrzymany przez wiązkę światła zmierzył:
-     chwila przejścia przez F1: t1 = 1,0 s (licząc od startu)
-     chwila przejścia przez F2: t2 = 1,4 s (licząc od startu)
+Elektroniczny stoper zatrzymany przez wiązkę światła zmierzył:
+- chwila przejścia przez F1: $t_1 = 1{,}0$ s (licząc od startu),
+- chwila przejścia przez F2: $t_2 = 1{,}4$ s (licząc od startu).
 
-  Czas między bramkami: Δt = t2 − t1 = 0,4 s
-  Prędkość średnia między F1 a F2: v = d / Δt = 1,0 m / 0,4 s = 2,5 m/s
-```
+Czas między bramkami: $\Delta t = t_2 - t_1 = 0{,}4$ s.
+
+Prędkość średnia między F1 a F2: $v = d / \Delta t = 1{,}0\ \text{m} / 0{,}4\ \text{s} = 2{,}5\ \text{m/s}$.
 
 Taki pomiar jest dużo dokładniejszy niż mierzenie stoperem "ręcznie", bo bramka reaguje na promień światła w ułamku sekundy, a reakcja człowieka na stoperze trwa zwykle 0,2–0,3 sekundy (i to jest źródło niepewności pomiaru!).
 
@@ -392,16 +333,34 @@ Poniższe 10 pytań sprawdza znajomość całego tematu 1 (podtematy 1.1–1.6).
 
 **4.** Na wykresie poniżej przedstawiono zależność drogi od czasu s(t) dla pewnego ciała:
 
-```
- s [m]
- 20 |        _______________
-    |       /
-    |      /
-    |     /
-    |    /
-  0 +---+----+----+----+----+---- t [s]
-    0   2    3    4    5    6
-```
+<div align="center">
+
+<svg viewBox="0 0 400 250" width="100%" style="max-width:420px" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wykres s(t): droga rośnie liniowo od 0 do 20 m w czasie 0-2 s, potem pozostaje stała na poziomie 20 m do 6 s">
+  <line x1="50" y1="210" x2="365" y2="210" stroke="black" stroke-width="2"/>
+  <polygon points="365,210 355,206 355,214" fill="black"/>
+  <line x1="50" y1="210" x2="50" y2="45" stroke="black" stroke-width="2"/>
+  <polygon points="50,45 46,55 54,55" fill="black"/>
+  <text x="30" y="35" font-size="14">s [m]</text>
+  <text x="380" y="215" font-size="14">t [s]</text>
+  <polyline points="50,210 150,60 350,60" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <line x1="150" y1="210" x2="150" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="200" y1="210" x2="200" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="250" y1="210" x2="250" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="300" y1="210" x2="300" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="350" y1="210" x2="350" y2="216" stroke="black" stroke-width="1.5"/>
+  <text x="46" y="228" font-size="13">0</text>
+  <text x="146" y="228" font-size="13">2</text>
+  <text x="196" y="228" font-size="13">3</text>
+  <text x="246" y="228" font-size="13">4</text>
+  <text x="296" y="228" font-size="13">5</text>
+  <text x="346" y="228" font-size="13">6</text>
+  <line x1="44" y1="60" x2="50" y2="60" stroke="black" stroke-width="1.5"/>
+  <text x="18" y="65" font-size="13">20</text>
+</svg>
+
+*Ilustracja własna — dokładny wykres do tego konkretnego zadania (nie znaleziono gotowego obrazka z tymi samymi liczbami).*
+
+</div>
 
 (odcinek 0–2 s: droga rośnie liniowo od 0 do 20 m; odcinek 2–6 s: droga pozostaje stała na poziomie 20 m)
 
@@ -428,15 +387,33 @@ W którym przedziale czasu prędkość ciała była równa zeru?
 
 **7.** Na wykresie poniżej przedstawiono zależność prędkości od czasu v(t) dla ciała poruszającego się przez 12 sekund:
 
-```
- v [m/s]
- 8 |          _______________
-   |         /                \
-   |        /                  \
-   |       /                    \
- 0 +---+--+----+----+----+---+---+--- t [s]
-   0   4      6    8   10  12
-```
+<div align="center">
+
+<svg viewBox="0 0 400 250" width="100%" style="max-width:420px" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Wykres v(t): prędkość rośnie liniowo od 0 do 8 m/s w czasie 0-4 s, jest stała 8 m/s od 4 do 10 s, a potem maleje liniowo do 0 między 10 a 12 s">
+  <line x1="50" y1="210" x2="365" y2="210" stroke="black" stroke-width="2"/>
+  <polygon points="365,210 355,206 355,214" fill="black"/>
+  <line x1="50" y1="210" x2="50" y2="45" stroke="black" stroke-width="2"/>
+  <polygon points="50,45 46,55 54,55" fill="black"/>
+  <text x="22" y="35" font-size="14">v [m/s]</text>
+  <text x="380" y="215" font-size="14">t [s]</text>
+  <polyline points="50,210 150,60 300,60 350,210" fill="none" stroke="#2980b9" stroke-width="3"/>
+  <line x1="150" y1="210" x2="150" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="200" y1="210" x2="200" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="250" y1="210" x2="250" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="300" y1="210" x2="300" y2="216" stroke="black" stroke-width="1.5"/>
+  <line x1="350" y1="210" x2="350" y2="216" stroke="black" stroke-width="1.5"/>
+  <text x="146" y="228" font-size="13">4</text>
+  <text x="196" y="228" font-size="13">6</text>
+  <text x="246" y="228" font-size="13">8</text>
+  <text x="292" y="228" font-size="13">10</text>
+  <text x="342" y="228" font-size="13">12</text>
+  <line x1="44" y1="60" x2="50" y2="60" stroke="black" stroke-width="1.5"/>
+  <text x="26" y="65" font-size="13">8</text>
+</svg>
+
+*Ilustracja własna — dokładny wykres do tego konkretnego zadania (nie znaleziono gotowego obrazka z tymi samymi liczbami).*
+
+</div>
 
 (odcinek 0–4 s: prędkość rośnie liniowo od 0 do 8 m/s; odcinek 4–10 s: prędkość stała 8 m/s; odcinek 10–12 s: prędkość maleje liniowo do 0)
 

@@ -47,19 +47,11 @@ $$t[°C] = (t[°F] - 32) \cdot \frac{5}{9}$$
 
 ### Ilustracja 1: porównanie skal temperatur na wspólnej osi
 
-```
-   Kelviny (K)      Celsjusz (°C)     Fahrenheit (°F)
+![Porównanie skal temperatur: Kelvina, Rankine'a, Celsjusza i Fahrenheita, z zaznaczonymi punktami: wrzenie rtęci, punkt pary wodnej, przybliżona temperatura pokojowa, punkt lodu, wrzenie azotu i zero bezwzględne](ilustracje/skale-temperatur.svg)
 
-    373 K  ────────    100°C  ────────    212°F   ← woda wrze
-                │                │                │
-    310 K  ────────     37°C  ────────    98,6°F   ← temp. ciała człowieka
-                │                │                │
-    293 K  ────────     20°C  ────────     68°F   ← temperatura pokojowa
-                │                │                │
-    273 K  ────────      0°C  ────────     32°F   ← woda zamarza
-                │                │                │
-      0 K  ────────  -273,15°C ────────  -459,67°F ← zero bezwzględne
-```
+*Źródło: Baltakatei, [Temperature scales comparison (K,R,C,F).svg](https://commons.wikimedia.org/wiki/File:Temperature_scales_comparison_(K,R,C,F).svg), Wikimedia Commons, licencja CC BY-SA 4.0.*
+
+Diagram pokazuje, obok omawianych w tym rozdziale skal Kelvina, Celsjusza i Fahrenheita, dodatkowo rzadziej spotykaną skalę Rankine'a (R) — bezwzględną skalę temperatury opartą na stopniach Fahrenheita (podobnie jak Kelvin jest skalą bezwzględną opartą na stopniach Celsjusza). Na osiach zaznaczono punkty charakterystyczne: zero bezwzględne, punkt zamarzania wody (punkt lodu), przybliżoną temperaturę pokojową, punkt wrzenia wody (punkt pary), a także temperatury wrzenia azotu i rtęci — dla porównania, jak szeroki jest zakres temperatur spotykanych w przyrodzie i technice.
 
 ### Przykład
 
@@ -148,23 +140,13 @@ Ciepło może przemieszczać się z miejsca o wyższej temperaturze do miejsca o
 
 **Promieniowanie cieplne** — trzeci sposób przekazywania ciepła (wspominany też w zadaniach konkursowych) — energia jest przekazywana falami elektromagnetycznymi (np. podczerwonymi) i, w przeciwieństwie do przewodzenia i konwekcji, **nie wymaga żadnego ośrodka** — może zachodzić nawet w próżni (tak Słońce ogrzewa Ziemię).
 
-### Ilustracja 2: konwekcja w garnku z wodą podgrzewanym od dołu
+### Ilustracja 2: konwekcja w płynie podgrzewanym od dołu (np. w garnku z wodą)
 
-```
-        chłodniejsza woda opada
-        ↓                     ↓
-   ┌────↓─────────────────────↓────┐
-   │    ↓                     ↓    │
-   │    ↓      ciepła woda    ↓    │
-   │    ↓        unosi się    ↓    │
-   │    →→→→   ↑         ↑  ←←←←   │
-   │           ↑         ↑         │
-   │           ↑         ↑         │
-   └─────██████↑█████████↑████────┘
-          płomień palnika (źródło ciepła)
-```
+![Schemat komórek konwekcyjnych w naczyniu ogrzewanym równomiernie od dołu — czerwone strzałki na dole oznaczają dopływ ciepła, ciepły płyn (czerwony) unosi się do góry, ochładza się przy powierzchni (niebieski) i opada z powrotem w dół](ilustracje/konwekcja.svg)
 
-Strzałki pokazują prąd konwekcyjny: woda przy dnie się ogrzewa, staje się lżejsza i unosi do góry, a chłodniejsza, cięższa woda z góry opada na jej miejsce — powstaje krążący ruch, który stopniowo ogrzewa całą zawartość garnka.
+*Źródło: Theresa Knott, Joanjoc, McSush, [Convection cells.svg](https://commons.wikimedia.org/wiki/File:Convection_cells.svg), Wikimedia Commons, licencja CC BY-SA 3.0 / GFDL.*
+
+Strzałki pokazują prądy konwekcyjne (tzw. komórki konwekcyjne): płyn przy dnie ogrzewa się (dopływ ciepła zaznaczony czerwonymi strzałkami na dole), staje się lżejszy i unosi do góry, a ochłodzony przy powierzchni, cięższy płyn opada z powrotem w dół — powstaje krążący ruch, który stopniowo ogrzewa całą objętość naczynia. Dokładnie taki mechanizm zachodzi w garnku z wodą podgrzewanym od dołu.
 
 ### Przykład
 
@@ -196,58 +178,19 @@ Bardzo ważna obserwacja doświadczalna: **podczas przemiany fazowej temperatura
 
 ### Ilustracja 3: diagram przemian fazowych
 
-```
-                     TOPNIENIE  (pochłania energię)
-                 ─────────────────────────►
-     ┌───────────────┐                 ┌───────────────┐
-     │  CIAŁO STAŁE   │                 │     CIECZ      │
-     │  (np. lód)     │                 │  (np. woda)    │
-     └───────────────┘                 └───────────────┘
-                 ◄─────────────────────────
-                     KRZEPNIĘCIE  (oddaje energię)
+![Diagram przemian fazowych między stanem stałym, ciekłym i gazowym (oraz plazmą): topnienie, krzepnięcie, parowanie, skraplanie, sublimacja, resublimacja (depozycja), a także jonizacja i rekombinacja](ilustracje/przemiany-fazowe.svg)
 
+*Źródło: F l a n k e r, penubag, [Phase change - en.svg](https://commons.wikimedia.org/wiki/File:Phase_change_-_en.svg), Wikimedia Commons, domena publiczna (public domain).*
 
-                                          PAROWANIE  (pochłania energię)
-                                      ─────────────────────────►
-                       ┌───────────────┐                 ┌───────────────┐
-                       │     CIECZ      │                 │      GAZ       │
-                       │  (np. woda)    │                 │ (np. para wodna)│
-                       └───────────────┘                 └───────────────┘
-                                      ◄─────────────────────────
-                                          SKRAPLANIE  (oddaje energię)
-
-
-     ┌───────────────┐   SUBLIMACJA (pochłania energię)   ┌───────────────┐
-     │  CIAŁO STAŁE   │ ─────────────────────────────────►│      GAZ       │
-     │ (np. suchy lód)│ ◄─────────────────────────────────│                │
-     └───────────────┘   RESUBLIMACJA (oddaje energię)    └───────────────┘
-```
+Diagram dodatkowo pokazuje czwarty stan skupienia materii — **plazmę** (np. materia we wnętrzu gwiazd albo błyskawica) — oraz przejścia do niej i z niej: **jonizację** (gaz → plazma) i **rekombinację** (plazma → gaz). Plazma nie jest częścią materiału tego rozdziału, ale warto wiedzieć, że to czwarty, "najbardziej rozproszony" stan skupienia. Angielskie nazwy na diagramie odpowiadają polskim: *melting* = topnienie, *freezing* = krzepnięcie, *vaporization* = parowanie, *condensation* = skraplanie, *sublimation* = sublimacja, *deposition* = resublimacja.
 
 ### Ilustracja 4: wykres temperatury lodu ogrzewanego do pary wodnej
 
-Poniższy wykres pokazuje, jak zmienia się temperatura 1 kg lodu o temperaturze −20°C, gdy stale dostarczamy mu ciepło (oś pozioma — dostarczone ciepło/czas, oś pionowa — temperatura):
+Poniższy wykres pokazuje, jak zmienia się temperatura wody, gdy stale dostarczamy jej ciepło — od lodu poniżej 0°C, przez topnienie, ogrzewanie cieczy, wrzenie, aż po ogrzewanie pary wodnej (oś pozioma — ciepło dostarczone w przeliczeniu na 1 kg substancji, oś pionowa — temperatura):
 
-```
- t [°C]
- 120 │                                                    ┌──────────
-     │                                                    │  para wodna
- 100 │                                        ┌───────────┘  ogrzewa się
-     │                                        │ WRZENIE
-     │                                        │ (plateau — 100°C,
-     │                                        │  cała energia idzie
-     │                                        │  na parowanie)
-     │                              ┌─────────┘
-     │                             /  woda się ogrzewa (ciecz)
-   0 │                 ┌───────────┘
-     │                 │ TOPNIENIE
-     │                 │ (plateau — 0°C,
-     │                 │  cała energia idzie
-     │                 │  na topnienie lodu)
-     │       ┌─────────┘
-     │      /  lód się ogrzewa (ciało stałe)
- -20 │─────┘
-     └──────────────────────────────────────────────────────────► Q (ciepło dostarczone)
-```
+![Wykres ogrzewania wody: temperatura w funkcji dostarczonego ciepła, od lodu poniżej 0°C, przez plateau topnienia przy 0°C, ogrzewanie cieczy, plateau wrzenia przy 100°C, aż po ogrzewanie pary wodnej powyżej 100°C](ilustracje/wykres-ogrzewania-wody.svg)
+
+*Źródło: Cmglee, [Water temperature vs heat added.svg](https://commons.wikimedia.org/wiki/File:Water_temperature_vs_heat_added.svg), Wikimedia Commons, licencja CC BY-SA 4.0 / GFDL.*
 
 Widać wyraźnie dwa **plateau** (odcinki poziome) — przy 0°C (topnienie lodu) i przy 100°C (wrzenie wody). W tych miejscach temperatura się nie zmienia, mimo że ciepło cały czas jest dostarczane — energia "idzie" na zmianę stanu skupienia, a nie na wzrost temperatury.
 
@@ -336,24 +279,11 @@ Wszystkie substancje zbudowane są z cząsteczek (lub atomów), które są w ci�
 
 ### Ilustracja 5: schemat budowy cząsteczkowej trzech stanów skupienia
 
-```
-   CIAŁO STAŁE            CIECZ                  GAZ
+![Schemat cząsteczek wody (H2O) w trzech stanach skupienia: gaz (cząsteczki rozproszone, daleko od siebie), ciecz (cząsteczki blisko siebie, ale nieuporządkowane) i ciało stałe (cząsteczki ciasno upakowane)](ilustracje/stany-skupienia.svg)
 
-   ●─●─●─●─●          ●   ●  ●   ●          ●        ●
-   │ │ │ │ │            ●    ●                    ●
-   ●─●─●─●─●          ●   ●    ●   ●       ●            ●
-   │ │ │ │ │             ●   ●   ●              ●    ●
-   ●─●─●─●─●          ●    ●   ●    ●        ●            ●
-   │ │ │ │ │              ●  ●   ●                  ●
-   ●─●─●─●─●          ●  ●    ●   ●            ●        ●
+*Źródło: Luis Javier Rodriguez Lopez (Yupi666), konwersja do SVG: Tomtheman5, [Solid liquid gas.svg](https://commons.wikimedia.org/wiki/File:Solid_liquid_gas.svg), Wikimedia Commons, licencja CC BY-SA 3.0 / CC BY 2.5 / GFDL.*
 
-  cząsteczki drgają   cząsteczki blisko      cząsteczki daleko
-  w miejscu, sztywna  siebie, ale mogą się   od siebie, swobodny,
-  struktura           przesuwać - płynąć     szybki, chaotyczny ruch
-
-  stały kształt       zmienny kształt,       zmienny kształt
-  stała objętość      stała objętość         i zmienna objętość
-```
+Rysunek przedstawia cząsteczki wody (H₂O) w trzech stanach skupienia: w **gazie** cząsteczki są rozproszone daleko od siebie, w **cieczy** są już znacznie bliżej siebie (choć wciąż mogą się swobodnie przesuwać względem siebie), a w **ciele stałym** są ciasno, gęsto upakowane (w rzeczywistości ułożone w uporządkowaną sieć krystaliczną — na tym uproszczonym rysunku widać przede wszystkim samo bliskie upakowanie cząsteczek, opisane szerzej w tekście powyżej).
 
 ### Przykład
 

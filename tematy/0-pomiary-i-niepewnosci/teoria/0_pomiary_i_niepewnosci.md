@@ -29,43 +29,13 @@ Suwmiarka ma dwie skale: główną (działka 1 mm) i dodatkową, ruchomą — **
 
 <div align="center">
 
-<svg width="420" height="150" viewBox="0 0 420 150" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skala suwmiarki z zaznaczoną działką elementarną">
-  <rect x="0" y="0" width="420" height="150" fill="#f6f6f2" stroke="#bbb" />
-  <!-- główna linia skali -->
-  <line x1="20" y1="60" x2="400" y2="60" stroke="#222" stroke-width="2" />
-  <!-- ticki co 1 mm (co 10px), duże co 1 cm (co 50px) -->
-  <g stroke="#222" stroke-width="1.5">
-    <line x1="20" y1="60" x2="20" y2="90" stroke-width="2.5" />
-    <line x1="30" y1="60" x2="30" y2="72" />
-    <line x1="40" y1="60" x2="40" y2="72" />
-    <line x1="50" y1="60" x2="50" y2="72" />
-    <line x1="60" y1="60" x2="60" y2="72" />
-    <line x1="70" y1="60" x2="70" y2="90" stroke-width="2.5" />
-    <line x1="80" y1="60" x2="80" y2="72" />
-    <line x1="90" y1="60" x2="90" y2="72" />
-    <line x1="100" y1="60" x2="100" y2="72" />
-    <line x1="110" y1="60" x2="110" y2="72" />
-    <line x1="120" y1="60" x2="120" y2="90" stroke-width="2.5" />
-    <line x1="130" y1="60" x2="130" y2="72" />
-    <line x1="140" y1="60" x2="140" y2="72" />
-    <line x1="150" y1="60" x2="150" y2="72" />
-    <line x1="160" y1="60" x2="160" y2="72" />
-    <line x1="170" y1="60" x2="170" y2="90" stroke-width="2.5" />
-  </g>
-  <text x="20" y="105" font-size="12" text-anchor="middle">0 cm</text>
-  <text x="70" y="105" font-size="12" text-anchor="middle">1 cm</text>
-  <text x="120" y="105" font-size="12" text-anchor="middle">2 cm</text>
-  <text x="170" y="105" font-size="12" text-anchor="middle">3 cm</text>
-  <!-- callout na działkę elementarną -->
-  <line x1="30" y1="60" x2="30" y2="30" stroke="#c0392b" stroke-width="1" stroke-dasharray="3,2" />
-  <line x1="40" y1="60" x2="40" y2="30" stroke="#c0392b" stroke-width="1" stroke-dasharray="3,2" />
-  <line x1="30" y1="30" x2="40" y2="30" stroke="#c0392b" stroke-width="1.5" />
-  <text x="35" y="20" font-size="12" fill="#c0392b" text-anchor="middle">działka elementarna = 1 mm</text>
-  <text x="210" y="60" font-size="12" fill="#555">← skala główna suwmiarki (mm) →</text>
-  <text x="20" y="130" font-size="11" fill="#555">Odległość między sąsiednimi kreskami (np. tu: od 1,0 cm do 1,1 cm) to właśnie działka elementarna.</text>
-</svg>
+![Suwmiarka ze skalą główną i noniuszem — pomiar 2,475 cm ± 0,005 cm](ilustracje/suwmiarka-skala-z-noniuszem.svg)
+
+*Źródło: Joaquim Alves Gaspar (edycje: ed g2s, Anasofiapaixao), Wikimedia Commons, CC BY-SA 3.0 / CC BY 2.5 / GFDL — [File:Vernier caliper.svg](https://commons.wikimedia.org/wiki/File:Vernier_caliper.svg)*
 
 </div>
+
+Na rysunku widać skalę główną (w centymetrach i calach) oraz przesuwny noniusz — dzięki wyrównaniu kresek noniusza ze skalą główną można odczytać wynik dokładniej niż z samej działki głównej (tu: 2,475 cm, z niepewnością ±0,005 cm).
 
 ### Przegląd typowych przyrządów
 
@@ -106,20 +76,58 @@ Jednostkę zapisujemy zawsze po całym wyrażeniu, np. $l = (143{,}5 \pm 0{,}2)\
 
 <div align="center">
 
-```
-Niepewność pomiaru długości ołówka: l = (143,5 ± 0,2) mm
+<svg width="520" height="190" viewBox="0 0 520 190" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Oś liczbowa z zaznaczonym przedziałem niepewności pomiaru długości ołówka">
+  <defs>
+    <marker id="dwStart" viewBox="0 0 10 10" refX="1" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 9 0 L 1 5 L 9 10" fill="none" stroke="#c0392b" stroke-width="1.5" />
+    </marker>
+    <marker id="dwEnd" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 9 0 L 1 5 L 9 10" fill="none" stroke="#c0392b" stroke-width="1.5" />
+    </marker>
+    <marker id="axisArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#222" />
+    </marker>
+  </defs>
 
-              Δl = 0,2 mm         Δl = 0,2 mm
-           |‹───────────›|‹───────────›|
-      ─────┼─────────────┼─────────────┼─────►  długość [mm]
-         143,3         143,5         143,7
-                          ▲
-                   odczytany wynik l
+  <rect x="0" y="0" width="520" height="190" fill="#f6f6f2" stroke="#bbb" />
 
-  Wartość PRAWDZIWA długości ołówka na pewno leży gdzieś
-  w przedziale od 143,3 mm do 143,7 mm — po prostu nie wiemy,
-  w którym dokładnie miejscu tego przedziału.
-```
+  <text x="260" y="20" font-size="13" text-anchor="middle" fill="#222">Niepewność pomiaru długości ołówka: l = (143,5 ± 0,2) mm</text>
+
+  <!-- nawiasy podwójne pokazujące Δl = 0,2 mm po obu stronach -->
+  <line x1="120" y1="60" x2="280" y2="60" stroke="#c0392b" stroke-width="1.5" marker-start="url(#dwStart)" marker-end="url(#dwEnd)" />
+  <line x1="280" y1="60" x2="440" y2="60" stroke="#c0392b" stroke-width="1.5" marker-start="url(#dwStart)" marker-end="url(#dwEnd)" />
+  <text x="200" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,2 mm</text>
+  <text x="360" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,2 mm</text>
+
+  <!-- łączniki od nawiasów do kresek na osi -->
+  <g stroke="#c0392b" stroke-width="1" stroke-dasharray="2,2">
+    <line x1="120" y1="60" x2="120" y2="100" />
+    <line x1="280" y1="60" x2="280" y2="100" />
+    <line x1="440" y1="60" x2="440" y2="100" />
+  </g>
+
+  <!-- główna oś liczbowa -->
+  <line x1="60" y1="110" x2="480" y2="110" stroke="#222" stroke-width="2" marker-end="url(#axisArrow)" />
+  <g stroke="#222" stroke-width="2">
+    <line x1="120" y1="100" x2="120" y2="120" />
+    <line x1="280" y1="100" x2="280" y2="120" />
+    <line x1="440" y1="100" x2="440" y2="120" />
+  </g>
+
+  <text x="120" y="138" font-size="12" text-anchor="middle" fill="#222">143,3</text>
+  <text x="280" y="138" font-size="12" text-anchor="middle" fill="#222">143,5</text>
+  <text x="440" y="138" font-size="12" text-anchor="middle" fill="#222">143,7</text>
+  <text x="495" y="114" font-size="12" fill="#222">długość [mm]</text>
+
+  <!-- znacznik odczytanego wyniku -->
+  <polygon points="280,150 274,162 286,162" fill="#2471a3" />
+  <line x1="280" y1="150" x2="280" y2="120" stroke="#2471a3" stroke-width="1" stroke-dasharray="2,2" />
+  <text x="280" y="178" font-size="12" text-anchor="middle" fill="#2471a3">odczytany wynik l</text>
+</svg>
+
+*Ilustracja własna (nie znaleziono gotowego, licencjonowanego obrazka pasującego dokładnie do tego przykładu liczbowego 143,5 mm ± 0,2 mm).*
+
+Wartość PRAWDZIWA długości ołówka na pewno leży gdzieś w przedziale od 143,3 mm do 143,7 mm — po prostu nie wiemy, w którym dokładnie miejscu tego przedziału.
 
 </div>
 
@@ -176,25 +184,17 @@ $$a \times 10^{n}, \quad \text{gdzie } 1 \le a < 10, \ n \in \mathbb{Z}$$
 
 ### Przedrostki jednostek SI — tabela przeliczeniowa
 
-<div align="center">
-
-```
-+---------------+--------+-----------+----------------------------+
-|  Przedrostek  | Symbol |  Mnożnik  |         Przykład           |
-+---------------+--------+-----------+----------------------------+
-|  giga         |   G    |   10⁹     |  1 GW = 1 000 000 000 W    |
-|  mega         |   M    |   10⁶     |  1 MW =     1 000 000 W    |
-|  kilo         |   k    |   10³     |  1 km =         1 000 m    |
-|  hekto        |   h    |   10²     |  1 hPa =          100 Pa   |
-|  (brak)       |   —    |   10⁰     |  1 m, 1 g, 1 s              |
-|  decy         |   d    |   10⁻¹    |  1 dm =           0,1 m     |
-|  centy        |   c    |   10⁻²    |  1 cm =          0,01 m     |
-|  mili         |   m    |   10⁻³    |  1 mm =         0,001 m     |
-|  mikro        |   µ    |   10⁻⁶    |  1 µm =     0,000 001 m     |
-+---------------+--------+-----------+----------------------------+
-```
-
-</div>
+| Przedrostek | Symbol | Mnożnik | Przykład |
+|---|---|---|---|
+| giga | G | 10⁹ | 1 GW = 1 000 000 000 W |
+| mega | M | 10⁶ | 1 MW = 1 000 000 W |
+| kilo | k | 10³ | 1 km = 1 000 m |
+| hekto | h | 10² | 1 hPa = 100 Pa |
+| (brak) | — | 10⁰ | 1 m, 1 g, 1 s |
+| decy | d | 10⁻¹ | 1 dm = 0,1 m |
+| centy | c | 10⁻² | 1 cm = 0,01 m |
+| mili | m | 10⁻³ | 1 mm = 0,001 m |
+| mikro | µ | 10⁻⁶ | 1 µm = 0,000 001 m |
 
 ### Przykład
 
