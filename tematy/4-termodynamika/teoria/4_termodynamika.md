@@ -95,7 +95,7 @@ $$\Delta U = Q + W$$
 
 gdzie ΔU — zmiana energii wewnętrznej, Q — dostarczone ciepło, W — praca wykonana nad ciałem.
 
-To oznacza, że można dostarczyć ciału ciepło, a jego energia wewnętrzna wcale nie musi wzrosnąć — jeśli ciało w tym samym czasie wykona pracę równą dostarczonemu ciepłu (np. gaz w silniku pochłania ciepło i jednocześnie rozpręża się, wykonując pracę nad tłokiem).
+To oznacza, że można dostarczyć ciału ciepło, a jego energia wewnętrzna wcale nie musi wzrosnąć — jeśli ciało w tym samym czasie samo wykona pracę o takiej samej wartości (czyli W we wzorze jest ujemne, bo to praca wykonana *przez* ciało, nie *nad* nim). Przykład: gaz w silniku pochłania ciepło i jednocześnie rozpręża się, wykonując pracę nad tłokiem — traci na to tyle energii, na ile ją zyskał z ciepła, więc jego energia wewnętrzna może się nie zmienić.
 
 ### Przykład
 

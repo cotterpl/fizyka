@@ -165,6 +165,12 @@ Drogę w ruchu jednostajnie przyspieszonym (startującym z $v_0 = 0$) liczymy wz
 
 $$s = \frac{a \cdot t^2}{2}$$
 
+Gdy prędkość początkowa nie jest zerowa, wzór ogólny na drogę to $s = v_0 \cdot t + \frac{a \cdot t^2}{2}$. Łącząc go ze wzorem $v = v_0 + at$ (i eliminując czas t), otrzymujemy przydatny wzór bez czasu, wiążący prędkości i drogę bezpośrednio:
+
+$$v^2 = v_0^2 + 2as$$
+
+(dla ruchu opóźnionego przyspieszenie $a$ wstawiamy ze znakiem minus, np. $v^2 = v_0^2 - 2as$).
+
 ### Jednostka przyspieszenia
 
 Przyspieszenie wyrażamy w **metrach na sekundę do kwadratu (m/s²)**. Oznacza to: "o ile metrów na sekundę zmienia się prędkość w ciągu jednej sekundy". Np. $a = 2\ \text{m/s}^2$ znaczy, że co sekundę prędkość rośnie o 2 m/s.

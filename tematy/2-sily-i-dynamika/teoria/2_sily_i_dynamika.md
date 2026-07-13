@@ -161,13 +161,13 @@ Jeżeli ciało A działa na ciało B pewną siłą (akcja), to ciało B działa 
 
 ### Przykład
 
-*Treść:* Na ciało o masie 4 kg działa stała siła wypadkowa 12 N. Oblicz przyspieszenie ciała. Jaka siła reakcji działa na obiekt, który wywołuje tę siłę (np. na ścianę, od której ciało zostało odepchnięte)?
+*Treść:* Ciało o masie 4 kg zostaje odepchnięte od ściany jedyną działającą na nie siłą poziomą o wartości 12 N (skoro jest to jedyna siła pozioma, jest ona jednocześnie siłą wypadkową). Oblicz przyspieszenie ciała. Jaka siła reakcji działa na ścianę, od której ciało zostało odepchnięte?
 
 *Rozwiązanie:*
 Krok 1: Z II zasady dynamiki: a = F/m = 12 N / 4 kg = 3 m/s².
-Krok 2: Zgodnie z III zasadą dynamiki, jeśli obiekt działał na nasze ciało siłą 12 N, to nasze ciało działa na ten obiekt siłą o tej samej wartości (12 N), tym samym kierunku, ale przeciwnym zwrocie.
+Krok 2: Zgodnie z III zasadą dynamiki, siła, jaką ściana działa na ciało (12 N), ma swoją parę: ciało działa na ścianę siłą o tej samej wartości (12 N) i tym samym kierunku, ale przeciwnym zwrocie. Uwaga: III zasada łączy w parę konkretne siły oddziaływania między dwoma ciałami (tu: ściana↔ciało), a nie ogólną "siłę wypadkową" — działa to tutaj, bo siła od ściany jest jedyną siłą poziomą.
 
-*Odpowiedź:* Przyspieszenie ciała wynosi 3 m/s². Siła reakcji ma wartość 12 N i przeciwny zwrot do siły działającej na nasze ciało.
+*Odpowiedź:* Przyspieszenie ciała wynosi 3 m/s². Siła reakcji (działająca na ścianę) ma wartość 12 N i przeciwny zwrot do siły działającej na ciało.
 
 ---
 

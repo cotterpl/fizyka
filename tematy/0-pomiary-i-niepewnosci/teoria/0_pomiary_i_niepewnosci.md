@@ -25,7 +25,7 @@ To ważne: taki przyrząd myli się o tyle samo (w liczbach bezwzględnych, np. 
 
 ### Suwmiarka — skala z noniuszem
 
-Suwmiarka ma dwie skale: główną (działka 1 mm) i dodatkową, ruchomą — **nonjusz**, dzięki której możemy odczytać wynik dokładniej niż działka główna (np. z dokładnością 0,1 mm albo 0,05 mm — producent podaje to wprost na suwmiarce).
+Suwmiarka ma dwie skale: główną (działka 1 mm) i dodatkową, ruchomą — **noniusz**, dzięki której możemy odczytać wynik dokładniej niż działka główna (np. z dokładnością 0,1 mm albo 0,05 mm — producent podaje to wprost na suwmiarce).
 
 <div align="center">
 
