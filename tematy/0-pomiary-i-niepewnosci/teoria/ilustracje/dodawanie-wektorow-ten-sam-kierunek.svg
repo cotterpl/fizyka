@@ -1,0 +1,23 @@
+<svg viewBox="0 0 460 190" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:520px" role="img" aria-label="Dodawanie dwóch wektorów o tym samym kierunku i zwrocie: 3 N plus 2 N daje wypadkową 5 N w tę samą stronę">
+  <rect x="0" y="0" width="460" height="190" fill="#ffffff"/>
+  <defs>
+    <marker id="ar1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#1971c2"/>
+    </marker>
+    <marker id="ar2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2f9e44"/>
+    </marker>
+    <marker id="ar3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <text x="20" y="25" font-size="14" fill="#333">a₁ = 3 N</text>
+  <line x1="20" y1="40" x2="170" y2="40" stroke="#1971c2" stroke-width="4" marker-end="url(#ar1)"/>
+
+  <text x="180" y="25" font-size="14" fill="#333">a₂ = 2 N</text>
+  <line x1="180" y1="40" x2="280" y2="40" stroke="#2f9e44" stroke-width="4" marker-end="url(#ar2)"/>
+
+  <line x1="20" y1="90" x2="380" y2="90" stroke="#ddd" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="20" y="130" font-size="14" fill="#333">wypadkowa: a = a₁ + a₂ = 3 N + 2 N = 5 N</text>
+  <line x1="20" y1="150" x2="370" y2="150" stroke="#c0392b" stroke-width="5" marker-end="url(#ar3)"/>
+</svg>

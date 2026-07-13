@@ -1,0 +1,27 @@
+<svg viewBox="0 0 380 260" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:380px" role="img" aria-label="Dodawanie dwóch wektorów prostopadłych metodą równoległoboku — przekątna równoległoboku to wektor wypadkowy">
+  <rect x="0" y="0" width="380" height="260" fill="#ffffff"/>
+  <defs>
+    <marker id="cr1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#1971c2"/>
+    </marker>
+    <marker id="cr2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2f9e44"/>
+    </marker>
+    <marker id="cr3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <!-- wektor a: w prawo -->
+  <line x1="40" y1="220" x2="260" y2="220" stroke="#1971c2" stroke-width="4" marker-end="url(#cr1)"/>
+  <text x="130" y="245" font-size="14" fill="#1971c2">a</text>
+  <!-- wektor b: w górę -->
+  <line x1="40" y1="220" x2="40" y2="60" stroke="#2f9e44" stroke-width="4" marker-end="url(#cr2)"/>
+  <text x="12" y="140" font-size="14" fill="#2f9e44">b</text>
+  <!-- rownoleglobok (przerywane) -->
+  <line x1="260" y1="220" x2="260" y2="60" stroke="#bbb" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <line x1="40" y1="60" x2="260" y2="60" stroke="#bbb" stroke-width="1.5" stroke-dasharray="4,3"/>
+  <!-- wypadkowa: przekatna -->
+  <line x1="40" y1="220" x2="260" y2="60" stroke="#c0392b" stroke-width="5" marker-end="url(#cr3)"/>
+  <text x="220" y="130" font-size="15" fill="#c0392b" font-weight="bold">a + b</text>
+  <text x="40" y="20" font-size="12" fill="#555">(metoda równoległoboku — poza zakresem szkoły podstawowej, tylko dla ciekawości)</text>
+</svg>

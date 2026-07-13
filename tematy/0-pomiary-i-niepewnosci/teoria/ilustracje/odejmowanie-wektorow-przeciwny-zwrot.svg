@@ -1,0 +1,23 @@
+<svg viewBox="0 0 460 190" xmlns="http://www.w3.org/2000/svg" width="100%" style="max-width:520px" role="img" aria-label="Składanie dwóch wektorów o przeciwnych zwrotach: 5 N w prawo i 2 N w lewo daje wypadkową 3 N w prawo">
+  <rect x="0" y="0" width="460" height="190" fill="#ffffff"/>
+  <defs>
+    <marker id="br1" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#1971c2"/>
+    </marker>
+    <marker id="br2" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#2f9e44"/>
+    </marker>
+    <marker id="br3" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto">
+      <path d="M0,0 L9,3 L0,6 Z" fill="#c0392b"/>
+    </marker>
+  </defs>
+  <text x="20" y="25" font-size="14" fill="#333">F₁ = 5 N</text>
+  <line x1="20" y1="40" x2="270" y2="40" stroke="#1971c2" stroke-width="4" marker-end="url(#br1)"/>
+
+  <text x="280" y="25" font-size="14" fill="#333">F₂ = 2 N</text>
+  <line x1="370" y1="65" x2="270" y2="65" stroke="#2f9e44" stroke-width="4" marker-end="url(#br2)"/>
+
+  <line x1="20" y1="95" x2="380" y2="95" stroke="#ddd" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="20" y="130" font-size="14" fill="#333">wypadkowa: Fw = F₁ − F₂ = 5 N − 2 N = 3 N (w prawo, jak F₁)</text>
+  <line x1="20" y1="150" x2="170" y2="150" stroke="#c0392b" stroke-width="5" marker-end="url(#br3)"/>
+</svg>

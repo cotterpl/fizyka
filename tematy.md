@@ -9,7 +9,8 @@ Podział odzwierciedla podział na etapy konkursowe: etap szkolny (wczesna jesie
    0.2. Niepewność pomiarowa i zapis wyniku pomiaru  
    0.3. Cyfry znaczące  
    0.4. Notacja wykładnicza  
-   0.5. Jednostki wielkości fizycznych — rozpoznawanie i przeliczanie
+   0.5. Jednostki wielkości fizycznych — rozpoznawanie i przeliczanie  
+   0.6. Skalary i wektory *(rozszerzenie własne, poza regulaminem — pomaga zrozumieć oznaczenia wektorowe używane w tematach 1–5)*
 
 1. Kinematyka — ruch i jego opis  
    1.1. Względność ruchu, tor a droga  
