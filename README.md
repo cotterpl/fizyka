@@ -23,6 +23,7 @@
   - [1.4. Wykresy zależności drogi, prędkości i przyspieszenia od czasu](tematy/1-kinematyka/teoria/1.4_wykresy_ruchu.md)
   - [1.5. Przeliczanie jednostek](tematy/1-kinematyka/teoria/1.5_przeliczanie_jednostek.md)
   - [1.6. Pomiary charakterystyk ruchu](tematy/1-kinematyka/teoria/1.6_pomiary_charakterystyk_ruchu.md)
+  - [1.7. Prędkość, droga i przyspieszenie jako wektory (rozszerzenie)](tematy/1-kinematyka/teoria/1.7_predkosc_droga_przyspieszenie_jako_wektory.md)
 - Zadania: [proste](tematy/1-kinematyka/zadania_proste.md) ([odpowiedzi](tematy/1-kinematyka/zadania_proste_odpowiedzi.md), [rozwiązania](tematy/1-kinematyka/zadania_proste_rozwiazania.md)) · [konkursowe (zDolny Ślązak)](tematy/1-kinematyka/zadania_zdolny_slazak.md)
 - [Quiz](tematy/1-kinematyka/teoria/quiz.md) ([odpowiedzi](tematy/1-kinematyka/teoria/quiz_odpowiedzi.md))
 

@@ -32,6 +32,8 @@ $$v^2 = v_0^2 + 2as$$
 
 gdzie symbole jak wyżej (dla ruchu opóźnionego $a$ wstawiamy ze znakiem minus).
 
+Powyższe wzory zakładają, że ciało porusza się cały czas w jedną stronę. Gdy ciało zmienia zwrot ruchu (np. zatrzymuje się i zaczyna jechać w drugą stronę), $v_0$, $v$ i $a$ zapisujemy liczbami ze znakiem — zobacz rozszerzenie `1.7_predkosc_droga_przyspieszenie_jako_wektory.md`.
+
 ---
 
 ## 2. Siły i dynamika

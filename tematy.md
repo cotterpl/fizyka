@@ -18,7 +18,8 @@ Podział odzwierciedla podział na etapy konkursowe: etap szkolny (wczesna jesie
    1.3. Ruch jednostajnie zmienny (przyspieszony, opóźniony): przyspieszenie  
    1.4. Wykresy zależności drogi, prędkości i przyspieszenia od czasu  
    1.5. Przeliczanie jednostek (droga, prędkość, przyspieszenie, czas)  
-   1.6. Pomiary charakterystyk ruchu
+   1.6. Pomiary charakterystyk ruchu  
+   1.7. Prędkość, droga i przyspieszenie jako wektory *(rozszerzenie własne, poza regulaminem — pogłębia temat 0.6 w zastosowaniu do kinematyki, w tym przypadek zmiany zwrotu ruchu)*
 
 2. Siły i dynamika  
    2.1. Siła jako wektor — wartość, kierunek, zwrot; pomiar siły  
