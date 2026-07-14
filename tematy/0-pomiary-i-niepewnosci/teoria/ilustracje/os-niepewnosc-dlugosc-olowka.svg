@@ -13,13 +13,13 @@
 
   <rect x="0" y="0" width="520" height="190" fill="#f6f6f2" stroke="#bbb" />
 
-  <text x="260" y="20" font-size="13" text-anchor="middle" fill="#222">Niepewność pomiaru długości ołówka: l = (143,5 ± 0,2) mm</text>
+  <text x="260" y="20" font-size="13" text-anchor="middle" fill="#222">Niepewność pomiaru długości ołówka: l = (143,5 ± 0,1) mm</text>
 
-  <!-- nawiasy podwójne pokazujące Δl = 0,2 mm po obu stronach -->
+  <!-- nawiasy podwójne pokazujące Δl = 0,1 mm po obu stronach -->
   <line x1="120" y1="60" x2="280" y2="60" stroke="#c0392b" stroke-width="1.5" marker-start="url(#dwStart)" marker-end="url(#dwEnd)" />
   <line x1="280" y1="60" x2="440" y2="60" stroke="#c0392b" stroke-width="1.5" marker-start="url(#dwStart)" marker-end="url(#dwEnd)" />
-  <text x="200" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,2 mm</text>
-  <text x="360" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,2 mm</text>
+  <text x="200" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,1 mm</text>
+  <text x="360" y="48" font-size="12" text-anchor="middle" fill="#c0392b">Δl = 0,1 mm</text>
 
   <!-- łączniki od nawiasów do kresek na osi -->
   <g stroke="#c0392b" stroke-width="1" stroke-dasharray="2,2">
@@ -36,9 +36,9 @@
     <line x1="440" y1="100" x2="440" y2="120" />
   </g>
 
-  <text x="120" y="138" font-size="12" text-anchor="middle" fill="#222">143,3</text>
+  <text x="120" y="138" font-size="12" text-anchor="middle" fill="#222">143,4</text>
   <text x="280" y="138" font-size="12" text-anchor="middle" fill="#222">143,5</text>
-  <text x="440" y="138" font-size="12" text-anchor="middle" fill="#222">143,7</text>
+  <text x="440" y="138" font-size="12" text-anchor="middle" fill="#222">143,6</text>
   <text x="495" y="114" font-size="12" fill="#222">długość [mm]</text>
 
   <!-- znacznik odczytanego wyniku -->

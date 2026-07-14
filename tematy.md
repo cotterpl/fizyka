@@ -103,4 +103,4 @@ Podział odzwierciedla podział na etapy konkursowe: etap szkolny (wczesna jesie
     10.11. Laser jako źródło światła jednobarwnego, przyrządy optyczne
 
 ## Źródło
-[Regulamin Dolnośląskiego Konkursu Fizycznego zDolny Ślązak 2025/2026](https://zdolnyslazak.edu.pl/pliki_pdf/REGULAMIN%20KONKURS%C3%93W_2025_2026.pdf) — podział na etap szkolny (pkt. 1–5), etap powiatowy (pkt. 6) i etap wojewódzki (pkt. 9–10) w oryginale.
+[Regulamin Dolnośląskiego Konkursu Fizycznego zDolny Ślązak 2025/2026](https://zdolnyslazak.edu.pl/pliki_pdf/REGULAMIN%20KONKURS%C3%93W_2025_2026.pdf) — podział na etap szkolny (pkt. 1–5), etap powiatowy (pkt. 6–8) i etap wojewódzki (pkt. 9–10) w oryginale.

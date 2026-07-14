@@ -5,7 +5,7 @@ Zadania rozgrzewkowe (poziom podstawowy, szkolny) dotyczące temperatury, skal t
 ---
 
 **[4.1 Temperatura i równowaga termodynamiczna]**
-Do termosu wlano 100°C gorącą wodę i wrzucono kostkę lodu o temperaturze 0°C. Opisz, jakie procesy będą zachodzić w termosie i co można powiedzieć o temperaturze zawartości termosu, gdy układ osiągnie stan równowagi termodynamicznej.
+Do termosu wlano gorącą wodę o temperaturze 100°C i wrzucono kostkę lodu o temperaturze 0°C. Opisz, jakie procesy będą zachodzić w termosie i co można powiedzieć o temperaturze zawartości termosu, gdy układ osiągnie stan równowagi termodynamicznej.
 Źródło: [zpe.gov.pl — Sprawdź się: Na czym polega stan równowagi termodynamicznej?](https://zpe.gov.pl/a/sprawdz-sie/DlEq7ZiL8)
 
 **[4.2 Skale temperatur]**

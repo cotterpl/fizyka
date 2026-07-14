@@ -11,10 +11,10 @@ c) **Fałsz.** Siła jest miarą każdego oddziaływania między ciałami — op
 d) **Fałsz.** To jest właśnie zaprzeczenie definicji siły jako wektora — kierunek i zwrot są integralną częścią opisu siły (siła 10 N "w prawo" i siła 10 N "w lewo" to różne siły, mimo tej samej wartości).
 
 **2.** [2.2 Tarcie]
-Dane: m = 0,5 kg, μ = 0,25, g = 10 m/s².
+Dane: m = 0,5 kg, f = 0,25, g = 10 m/s².
 Siła nacisku klocka na powierzchnię jest równa jego ciężarowi (klocek leży na płaskiej, poziomej powierzchni):
 N = m·g = 0,5 kg · 10 m/s² = 5 N.
-Siła tarcia: T = μ·N = 0,25 · 5 N = **1,25 N**.
+Siła tarcia: T = f·N = 0,25 · 5 N = **1,25 N**.
 
 **3.** [2.2 Sprężystość]
 Prawo Hooke'a: wydłużenie sprężyny jest proporcjonalne do przyłożonej siły, x = k·F (albo równoważnie F = k'·x).

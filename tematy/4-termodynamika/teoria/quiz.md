@@ -67,7 +67,7 @@ Poniższy quiz sprawdza znajomość całego rozdziału 4 (Termodynamika). Zadani
 - [ ] C. W gazie odległości między cząsteczkami są bardzo małe, dlatego gazy trudno ścisnąć.
 - [ ] D. Gaz nie ma ani stałego kształtu, ani stałej objętości.
 
-**10.** W naczyniu znajduje się `1 kg` substancji o nieznanym cieple właściwym. Dostarczenie jej `8400 J` ciepła spowodowało wzrost temperatury o `2°C`. Jaką substancją może być ta ciecz, jeśli wiadomo, że ciepło właściwe wody wynosi `4200 J/(kg·°C)`, oleju `2100 J/(kg·°C)`, a rtęci `140 J/(kg·°C)`?
+**10.** W naczyniu znajduje się `1 kg` substancji o nieznanym cieple właściwym. Dostarczenie jej `8400 J` ciepła spowodowało wzrost temperatury o `2°C`. Jaką substancją może być ta substancja, jeśli wiadomo, że ciepło właściwe wody wynosi `4200 J/(kg·°C)`, oleju `2100 J/(kg·°C)`, a rtęci `140 J/(kg·°C)`?
 
 - [ ] A. Woda.
 - [ ] B. Olej.

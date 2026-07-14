@@ -100,7 +100,7 @@ art. 132 ustawy Prawo oświatowe oraz Zarządzenia nr 5/2026 Dolnośląskiego Ku
   - **finalista** → 7 pkt rekrutacyjnych (10 pkt przy uzyskaniu 2 lub więcej tytułów finalisty)
 - **Etapy:** szkolny → powiatowy → wojewódzki
 
-**Harmonogram 2025/2026** (edycja 2026/2027 jeszcze nieopublikowana — zwykle ogłaszana jesienią):
+**Harmonogram 2025/2026** (edycja zakończona — etap wojewódzki odbył się 27.02.2026; edycja 2026/2027 jeszcze nieopublikowana, zwykle ogłaszana jesienią):
 
 | Etap | Fizyka |
 |---|---|

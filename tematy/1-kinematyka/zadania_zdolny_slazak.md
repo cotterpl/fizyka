@@ -31,7 +31,7 @@ Dwa identyczne samochody jadą jednostajnie w tę samą stronę wzdłuż jezdni:
 Rok: 2020/2021 | Zadanie 7 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2020-2021.pdf
 
 **[1.3 Przyspieszenie z wykresu F(s)]**
-Masa sanek 2 kg, przy pierwszych 3 m drogi opory ruchu = 0 (siła z wykresu F(s)). Jaką wartość przyspieszenia miały sanki w czasie pokonywania drugiego metra drogi? A. 0,5 m/s². B. 0,75 m/s². C. 1 m/s². D. 1,5 m/s².
+Masa sanek 2 kg. Wykres F(s) siły działającej na sanki, o tym samym kierunku i zwrocie co ich przemieszczenie: F=2 N (0–1 m), F=1 N (1–3 m), F=6 N (3–5 m), F=2 N (5–7 m), F=3 N (7–8 m); przy pierwszych 3 m drogi opory ruchu = 0. Jaką wartość przyspieszenia miały sanki w czasie pokonywania drugiego metra drogi? A. 0,5 m/s². B. 0,75 m/s². C. 1 m/s². D. 1,5 m/s².
 Rok: 2020/2021 | Zadanie 15 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2020-2021.pdf
 
 **[1.2/1.3 Zmiana prędkości]**
@@ -47,7 +47,7 @@ W kopalni soli w Kłodawie winda „klatka” zwozi górników na poziom -600 m,
 Rok: 2021/2022 | Zadanie 9 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2021-2022.pdf
 
 **[1.2/1.4 Wykres v(t), droga]**
-Wykres v(t) narciarza w ruchu zmiennym. Droga przebyta w czasie pierwszych 5 minut ruchu jest A. mniejsza niż / B. taka sama jak / C. większa niż droga przebyta między 30 a 40 minutą i wynosi 1. nieco ponad 1,5 km / 2. prawie 20 km / 3. około 3 km.
+Wykres v(t) narciarza w ruchu zmiennym: v=20 km/h (0–20 min), spadek do 10 km/h (20–25 min), v=10 km/h (25–40 min). Droga przebyta w czasie pierwszych 5 minut ruchu jest A. mniejsza niż / B. taka sama jak / C. większa niż droga przebyta między 30 a 40 minutą i wynosi 1. nieco ponad 1,5 km / 2. prawie 20 km / 3. około 3 km.
 Rok: 2022/2023 | Zadanie 6 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2022-2023.pdf
 
 **[1.2 Prędkość średnia]**
@@ -83,7 +83,7 @@ Helikopter lecący poziomo z prędkością 12 m/s otwiera luk nad płonącym las
 Rok: 2025/2026 | Zadanie 14 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2025-2026.pdf
 
 **[1.2/1.4 Wykres położenia narciarza od czasu]**
-Wykres położenia narciarza [km] od czasu [h]: wzrost 0→30 km w 0-2h, stałe 30 km w 2-3h, spadek do 0 w 3-4h. Oceń (P/F): A. w ciągu 4h narciarz pokonał drogę 60 km. B. największą szybkość miał między 1 a 2 godziną biegu. C. szybkość między 3 a 4 godziną ruchu była najmniejsza.
+Wykres położenia narciarza [km] od czasu [h]: wzrost 0→10 km w 0-1h, dalszy wzrost 10→30 km w 1-2h, stałe 30 km w 2-3h, spadek do 0 w 3-4h. Oceń (P/F): A. w ciągu 4h narciarz pokonał drogę 60 km. B. największą szybkość miał między 1 a 2 godziną biegu. C. szybkość między 3 a 4 godziną ruchu była najmniejsza.
 Rok: 2025/2026 | Zadanie 12 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2025-2026.pdf
 
 **[1.2/1.4 Wykres drogi trzech pojazdów]**

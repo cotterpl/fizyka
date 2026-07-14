@@ -31,7 +31,7 @@ Rysunki przedstawiają pary sił działających na prostopadłościan z drewna. 
 Rok: 2019/2020 | Zadanie 12 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2019-2020.pdf
 
 **[2.4 Siła wypadkowa]**
-Na pudełko działają siły F1=60N i F2=20N (prostopadłe kierunki) oraz F3 — pudełko jest w spoczynku. Oblicz wartość siły F3. (0-1)
+Na pudełko działają siły F1=60N i F2=20N (ten sam kierunek i zwrot, przyłożone z tej samej strony pudełka) oraz F3 przyłożona z przeciwnej strony — pudełko jest w spoczynku. Oblicz wartość siły F3. (0-1)
 Rok: 2019/2020 | Zadanie 13 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2019-2020.pdf
 
 **[2.4 Siła wypadkowa, siły równoważące się]**

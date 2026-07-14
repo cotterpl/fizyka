@@ -1,6 +1,6 @@
 # Temat 1: Kinematyka — odpowiedzi do quizu
 
-Odpowiedzi do quizu z pliku `1.0_kinematyka.md`, z krótkim uzasadnieniem do każdego pytania.
+Odpowiedzi do quizu z pliku `quiz.md`, z krótkim uzasadnieniem do każdego pytania.
 
 ---
 
@@ -82,3 +82,5 @@ Uzasadnienie:
 **10.** Odpowiedź: **C. `4 m/s²`**
 
 Uzasadnienie: Ze wzoru $v^2 = v_0^2 - 2as$, przy $v = 0$ (zatrzymanie): $0 = 12^2 - 2 \cdot a \cdot 18$, czyli $2 \cdot a \cdot 18 = 144$, więc $a = \dfrac{144}{36} = 4\ \text{m/s}^2$.
+
+[⬅ Powrót do spisu treści](1.0_kinematyka.md)

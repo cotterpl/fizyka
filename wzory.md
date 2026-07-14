@@ -26,6 +26,12 @@ $$a(t) = a \quad (\text{stałe})$$
 
 gdzie: $s$ — droga (skalar), $v_0$ — prędkość początkowa (wektor — tu użyta wartość), $v$ — prędkość w chwili $t$ (wektor — tu użyta wartość), $a$ — przyspieszenie (wektor — tu użyta wartość), $t$ — czas (skalar). Prędkość i przyspieszenie są z natury wektorami, ale skoro `s` to droga (skalar), te wzory liczą tylko ich wartości — zobacz temat `0.6_skalary_i_wektory.md`.
 
+**Wzór bez czasu** (eliminuje $t$ z powyższych wzorów; przydatny, gdy czas nie jest dany):
+
+$$v^2 = v_0^2 + 2as$$
+
+gdzie symbole jak wyżej (dla ruchu opóźnionego $a$ wstawiamy ze znakiem minus).
+
 ---
 
 ## 2. Siły i dynamika
@@ -40,7 +46,7 @@ gdzie: $\vec{F}$ — siła wypadkowa działająca na ciało (wektor), $m$ — ma
 
 $$\vec{F_g} = m\vec{g}$$
 
-gdzie: $m$ — masa ciała (skalar), $\vec{g}$ — przyspieszenie ziemskie (wektor; w przybliżeniu $9{,}8\ \text{m/s}^2$, w zadaniach często zaokrąglane do $10\ \text{m/s}^2$), $\vec{F_g}$ — ciężar (wektor).
+gdzie: $m$ — masa ciała (skalar), $\vec{g}$ — przyspieszenie ziemskie (wektor; w przybliżeniu $9{,}81\ \text{m/s}^2$, w zadaniach często zaokrąglane do $10\ \text{m/s}^2$), $\vec{F_g}$ — ciężar (wektor).
 
 **Siła tarcia** ($f$ — współczynnik tarcia [skalar], $N$ — siła nacisku/reakcji podłoża [wektor — tu użyta wartość]):
 
@@ -104,9 +110,11 @@ $$F_1 \cdot r_1 = F_2 \cdot r_2$$
 
 gdzie: $F_1$, $F_2$ — siły działające na ramiona dźwigni (wektor — tu wartość), $r_1$, $r_2$ — długości tych ramion (skalar; odległości punktów przyłożenia sił od punktu podparcia).
 
-**Zasada zachowania energii mechanicznej** (suma dwóch skalarów jest stała):
+**Energia mechaniczna** (suma dwóch skalarów) **i zasada jej zachowania**:
 
-$$E_k + E_p = \text{const}$$
+$$E_m = E_k + E_p = \text{const}$$
+
+gdzie: $E_m$ — energia mechaniczna (skalar).
 
 ---
 

@@ -4,7 +4,7 @@
 
 **2.** Gęstość marmuru jest 3 razy większa od gęstości lodu.
 
-**3.** m = 2 kg, F_c = 20 N
+**3.** m = 2 kg, F_g = 20 N
 
 **4.** ρ = 7,9 g/cm³ (= 7900 kg/m³)
 
@@ -18,7 +18,7 @@
 
 **9.** S2 = 11 m²
 
-**10.** a) F_c = 0,2 N; b) Fw = 0,2 N; c) głębokość zanurzenia w wodzie będzie mniejsza niż w oliwie
+**10.** a) F_g = 0,2 N; b) Fw = 0,2 N; c) głębokość zanurzenia w wodzie będzie mniejsza niż w oliwie
 
 **11.** ρ_kulka = 600 kg/m³
 

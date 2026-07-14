@@ -58,7 +58,7 @@ Rok: 2021/2022 | Zadanie 15 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_202
 Podkreśl właściwe: 1. Aby obliczyć siłę wyporu na zanurzoną kulkę ołowianą znając jej objętość, trzeba znać g oraz gęstość A. wody/kuli. 2. Siła wyporu na kulki tej samej objętości z różnych metali jest B. różna/taka sama, wyrażana w C. kilogramach/niutonach.
 Rok: 2021/2022 | Zadanie 16 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2021-2022.pdf
 
-**[5.1 Gęstość — obiektowanie z naczynia z jajkiem]**
+**[5.1 Gęstość — wyznaczanie objętości z naczynia z jajkiem]**
 Do naczynia pomiarowego (walec) włożono jajko i nalano wody, następnie jajko wyjęto (0-3). Uzupełnij: A. objętość cieczy z jajkiem = …… cm³. B. objętość cieczy po wyjęciu jajka = …… cm³. C. objętość jajka = …… cm³.
 Rok: 2022/2023 | Zadanie 8 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2022-2023.pdf
 

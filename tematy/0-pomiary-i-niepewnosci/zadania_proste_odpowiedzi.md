@@ -1,6 +1,6 @@
 # Temat 0: Pomiary fizyczne — zadania proste — odpowiedzi
 
-**1.** Metr krawiecki — 1 mm; suwmiarka — 0,1 mm; waga kuchenna — 5 g; termometr — 2°C.
+**1.** Metr krawiecki — 0,5 mm; suwmiarka — 0,1 mm; waga kuchenna — 5 g; termometr — 1°C.
 
 **2.** a) rozdzielczość = 0,1 mm. b) l = (19,70 ± 0,10) mm.
 

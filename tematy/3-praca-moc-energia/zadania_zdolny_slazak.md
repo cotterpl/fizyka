@@ -11,7 +11,7 @@ W podstawowych jednostkach układu SI pracę można wyrazić w: A. Wh. B. KM. C.
 Rok: 2019/2020 | Zadanie 8 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2019-2020.pdf
 
 **[3.2 Dźwignia dwustronna]**
-Dwie dziewczynki (Ola i Asia) siedzą na huśtawce (dźwigni dwustronnej) po przeciwnych stronach, w równowadze; siła Asi 300 N, ramię Oli 0,2 m (proporcje ramion na rysunku). Jaką siłą działa Ola? A. 60 N. B. 150 N. C. 600 N. D. 900 N.
+Dwie dziewczynki (Ola i Asia) siedzą na huśtawce (dźwigni dwustronnej) po przeciwnych stronach, w równowadze; siła Asi 300 N, ramię Oli 0,8 m, ramię Asi 1,6 m (rysunek w skali 0,2 m/kratkę). Jaką siłą działa Ola? A. 60 N. B. 150 N. C. 600 N. D. 900 N.
 Rok: 2019/2020 | Zadanie 10 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2019-2020.pdf
 
 **[3.3/3.4 Energia mechaniczna]**
@@ -23,7 +23,7 @@ W budynku o 6 identycznych piętrach Magda wsiadła do windy na parterze i wysia
 Rok: 2019/2020 | Zadanie 17 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2019-2020.pdf
 
 **[3.1 Praca z wykresu F(s)]**
-Wykres F(s) siły działającej na sanki (ten sam kierunek/zwrot co przemieszczenie). Praca wykonana przez siłę podczas przesunięcia sanek po pokonaniu pierwszych 5 metrów drogi wynosiła: A. 4 J. B. 10 J. C. 16 J. D. 23 J.
+Wykres F(s) siły działającej na sanki (ten sam kierunek/zwrot co przemieszczenie): F=2 N (0–1 m), F=1 N (1–3 m), F=6 N (3–5 m), F=2 N (5–7 m), F=3 N (7–8 m). Praca wykonana przez siłę podczas przesunięcia sanek po pokonaniu pierwszych 5 metrów drogi wynosiła: A. 4 J. B. 10 J. C. 16 J. D. 23 J.
 Rok: 2020/2021 | Zadanie 14 | Źródło: ../../arkusze/arkusz_szkolny_fizyka_2020-2021.pdf
 
 **[3.3 Energia kinetyczna]**

@@ -1,13 +1,13 @@
 # Temat 0: Pomiary fizyczne — zadania proste — rozwiązania
 
 **1.**
-Trzeba dopasować przyrząd do typowej dla niego dokładności (działki elementarnej lub dokładności podanej przez producenta).
-- **Metr krawiecki** (miara krawiecka) ma na skali kreski co 1 mm → niepewność **1 mm**.
-- **Suwmiarka** ma dodatkowy noniusz, który pozwala odczytać wynik dokładniej niż zwykła linijka → niepewność **0,1 mm**.
-- **Waga kuchenna** — typowa waga tego typu wskazuje z dokładnością do kilku gramów → niepewność **5 g**.
-- **Termometr** — typowy termometr (np. pokojowy) ma podziałkę co ok. 2 stopnie → niepewność **2°C**.
+Trzeba dopasować przyrząd do typowej dla niego dokładności. Przyrządy analogowe ze skalą (metr krawiecki, termometr) mają niepewność równą **połowie działki elementarnej** (zobacz materiał teoretyczny 0.1); przyrządy z noniuszem lub cyfrowe podają dokładność wprost.
+- **Metr krawiecki** (miara krawiecka) ma na skali kreski co 1 mm, więc niepewność to połowa działki: **0,5 mm**.
+- **Suwmiarka** ma dodatkowy noniusz, który sam w sobie określa dokładność odczytu → niepewność **0,1 mm**.
+- **Waga kuchenna** — typowa waga tego typu wskazuje z dokładnością do kilku gramów, podaną przez producenta → niepewność **5 g**.
+- **Termometr** — typowy termometr (np. pokojowy) ma podziałkę co ok. 2 stopnie, więc niepewność to połowa działki: **1°C**.
 
-**Odpowiedź:** metr krawiecki — 1 mm; suwmiarka — 0,1 mm; waga kuchenna — 5 g; termometr — 2°C.
+**Odpowiedź:** metr krawiecki — 0,5 mm; suwmiarka — 0,1 mm; waga kuchenna — 5 g; termometr — 1°C.
 
 ---
 

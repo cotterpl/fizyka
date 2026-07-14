@@ -13,8 +13,8 @@ Praca: W = F · h = 20 000 N · 10 m = 200 000 J = 200 kJ.
 Odp. Dźwig wykonał pracę 200 kJ.
 
 **3.** (Moc dźwigu)
-Dane: F = 5 kN = 5000 N, υ = 0,5 m/s.
-Moc: P = F · υ (bo P = W/t = F·s/t = F·υ)
+Dane: F = 5 kN = 5000 N, v = 0,5 m/s.
+Moc: P = F · v (bo P = W/t = F·s/t = F·v)
 P = 5000 N · 0,5 m/s = 2500 W = 2,5 kW.
 Odp. Moc dźwigu wynosi 2,5 kW.
 
@@ -25,9 +25,9 @@ F₁ = F₂ · r₂ / r₁ = 150 N · 15 cm / 60 cm = 2250 / 60 = 37,5 N.
 Odp. Basia musi działać siłą 37,5 N — czyli znacznie mniejszą niż ciężar wiadra, bo ramię korby jest 4 razy dłuższe od promienia wału.
 
 **5.** (Dźwignia dwustronna — Jacek)
-Dane: ciężar paczki Q = 1200 N na ramieniu r₂ = 0,5 m; siła Jacka F na ramieniu r₁ = 2 m.
-Warunek równowagi dźwigni dwustronnej: F · r₁ = Q · r₂
-F = Q · r₂ / r₁ = 1200 N · 0,5 m / 2 m = 600 / 2 = 300 N.
+Dane: ciężar paczki F_g = 1200 N na ramieniu r₂ = 0,5 m; siła Jacka F na ramieniu r₁ = 2 m.
+Warunek równowagi dźwigni dwustronnej: F · r₁ = F_g · r₂
+F = F_g · r₂ / r₁ = 1200 N · 0,5 m / 2 m = 600 / 2 = 300 N.
 Odp. Do zrównoważenia dźwigni (i uniesienia paczki) potrzebna jest siła 300 N — czterokrotnie mniejsza niż ciężar paczki, bo ramię Jacka jest 4 razy dłuższe.
 
 **6.** (Blok nieruchomy — skrzynka 50 kg)
@@ -56,9 +56,9 @@ D. Napięta cięciwa łuku jest odkształcona sprężyście (rozciągnięta), wi
 Odp. Prawdziwe są stwierdzenia A i D.
 
 **10.** (Piłka wyrzucona pionowo do góry)
-Dane: m = 0,5 kg, v = 4 m/s (prędkość początkowa, przy wyrzucie z poziomu ziemi), g = 10 m/s².
+Dane: m = 0,5 kg, v = 4 m/s (prędkość początkowa), g = 10 m/s². Przyjmujemy poziom wyrzutu jako poziom odniesienia (h=0).
 Energia kinetyczna w chwili wyrzutu: Ek = ½ · m · v² = ½ · 0,5 kg · (4 m/s)² = ½ · 0,5 · 16 = 4 J.
-Na starcie energia potencjalna (względem ziemi) wynosi 0, więc cała energia mechaniczna piłki to Em = Ek = 4 J.
+Na starcie energia potencjalna (względem przyjętego poziomu odniesienia) wynosi 0, więc cała energia mechaniczna piłki to Em = Ek = 4 J.
 Zgodnie z zasadą zachowania energii mechanicznej, energia ta jest stała podczas całego ruchu (pomijając opory powietrza). W najwyższym punkcie prędkość piłki wynosi 0, czyli Ek = 0, a cała energia jest energią potencjalną:
 Ep(max) = Em = 4 J.
 Z Ep(max) = m · g · h(max) wyznaczamy wysokość:

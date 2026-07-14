@@ -27,7 +27,7 @@ Zatem średnia energia kinetyczna cząsteczek również wzrosła dwukrotnie (2 r
 - **Przewodniki:** grafit, wolfram, stal, rtęć, srebro (metale i grafit — dobrze przewodzą ciepło).
 - **Izolatory:** tłuszcz, neon, powietrze, słoma, kołdra puchowa, wata (gazy oraz materiały porowate/włókniste — słabo przewodzą ciepło).
 
-**7.** Topnienie to przemiana ze stanu stałego w ciekły — aby cząsteczki mogły rozerwać usystematyzowane ("sztywne") wiązania w sieci krystalicznej i przejść w stan ciekły, ciało musi **pobierać** ciepło (energia jest zużywana na zwiększenie energii potencjalnej cząsteczek, temperatura w trakcie topnienia się nie zmienia).
+**7.** Topnienie to przemiana ze stanu stałego w ciekły — aby cząsteczki mogły rozerwać uporządkowane ("sztywne") wiązania w sieci krystalicznej i przejść w stan ciekły, ciało musi **pobierać** ciepło (energia jest zużywana na zwiększenie energii potencjalnej cząsteczek, temperatura w trakcie topnienia się nie zmienia).
 Krzepnięcie to przemiana odwrotna (z cieczy w ciało stałe) — cząsteczki "układają się" w sieć krystaliczną o niższej energii potencjalnej, więc ciało w tym czasie **oddaje** ciepło do otoczenia.
 Odpowiedź: topnienie — substancja **pobiera** ciepło; krzepnięcie — substancja **oddaje** ciepło.
 

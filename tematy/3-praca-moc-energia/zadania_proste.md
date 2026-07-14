@@ -15,7 +15,7 @@ Oblicz pracę, jaką wykonuje dźwig budowlany, podnosząc belkę o masie m = 2 
 Źródło: [Zadania z fizyki na wtorek i czwartek — Praca mechaniczna, SP1 Jadowniki](https://sp1.jadowniki.pl/wp-content/uploads/2020/06/Fizyka-klasa-7.pdf)
 
 **[3.1 Moc]**
-Dźwig wciąga ciężar, działając na linę stałą siłą F = 5 kN, przy czym lina (a wraz z nią ciężar) przesuwa się ze stałą prędkością υ = 0,5 m/s. Jaka jest moc dźwigu?
+Dźwig wciąga ciężar, działając na linę stałą siłą F = 5 kN, przy czym lina (a wraz z nią ciężar) przesuwa się ze stałą prędkością v = 0,5 m/s. Jaka jest moc dźwigu?
 Źródło: [Zadania z fizyki na wtorek i czwartek — Temat: Moc, SP1 Jadowniki](https://sp1.jadowniki.pl/wp-content/uploads/2020/06/Fizyka-klasa-7.pdf)
 
 **[3.2 Kołowrotek]**

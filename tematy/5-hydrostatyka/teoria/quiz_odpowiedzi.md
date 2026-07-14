@@ -1,14 +1,14 @@
 # Odpowiedzi do quizu — Temat 5: Właściwości materii i hydrostatyka
 
-Numeracja odpowiada pytaniom z pliku `5.0_wlasciwosci_materii_i_hydrostatyka.md`.
+Numeracja odpowiada pytaniom z pliku `quiz.md`.
 
 ---
 
 **1. Odpowiedź: C (miedź).**
-Gęstość bryłki: `d = m / V = 356 g / 40 cm³ = 8,9 g/cm³`. To dokładnie wartość gęstości miedzi z tabeli w rozdziale 5.1 — pozostałe metale mają wyraźnie inną gęstość.
+Gęstość bryłki: `ρ = m / V = 356 g / 40 cm³ = 8,9 g/cm³`. To dokładnie wartość gęstości miedzi z tabeli w rozdziale 5.1 — pozostałe metale mają wyraźnie inną gęstość.
 
-**2. Odpowiedź: `d = 2,0 g/cm³ (2000 kg/m³)`; tworzywo utonie w wodzie.**
-Objętość sześcianu: `V = a³ = 5³ = 125 cm³`. Gęstość: `d = m / V = 250 g / 125 cm³ = 2,0 g/cm³`. Ponieważ gęstość tworzywa (`2,0 g/cm³`) jest większa od gęstości wody (`1,0 g/cm³`), ciało utonie.
+**2. Odpowiedź: `ρ = 2,0 g/cm³ (2000 kg/m³)`; tworzywo utonie w wodzie.**
+Objętość sześcianu: `V = a³ = 5³ = 125 cm³`. Gęstość: `ρ = m / V = 250 g / 125 cm³ = 2,0 g/cm³`. Ponieważ gęstość tworzywa (`2,0 g/cm³`) jest większa od gęstości wody (`1,0 g/cm³`), ciało utonie.
 
 **3. Odpowiedzi: a) P, b) F, c) F, d) P.**
 
@@ -39,5 +39,5 @@ Ciśnienie hydrostatyczne zależy tylko od gęstości cieczy i głębokości zan
 Hel ma mniejszą gęstość niż powietrze, dzięki czemu siła wyporu działająca na balonik (zależna od gęstości ośrodka, czyli powietrza, oraz objętości balonika) jest większa niż jego ciężar. Wypadkowa siła jest skierowana do góry, więc balonik się unosi. Odpowiedzi A i C są fizycznie błędne (grawitacja działa na każdą masę, a napięcie powierzchniowe dotyczy powierzchni cieczy, nie powietrza), a D błędnie opisuje relację sił.
 
 **10. Odpowiedzi: a) `F_w = 0,512 N`, b) `80%` objętości kostki jest pod wodą.**
-Kostka pływa, więc jest w równowadze — siła wyporu równa się ciężarowi kostki: `F_w = Q = m · g = 0,0512 kg × 10 N/kg = 0,512 N`.
-Aby znaleźć zanurzoną część objętości, liczymy gęstość kostki: `V = a³ = 4³ = 64 cm³`, `d = m / V = 51,2 g / 64 cm³ = 0,8 g/cm³`. Z warunku pływania `V_zanurzone / V_całkowite = ρ_ciała / ρ_wody = 0,8 / 1,0 = 0,8`, czyli pod wodą znajduje się `80%` objętości kostki.
+Kostka pływa, więc jest w równowadze — siła wyporu równa się ciężarowi kostki: `F_w = F_g = m · g = 0,0512 kg × 10 N/kg = 0,512 N`.
+Aby znaleźć zanurzoną część objętości, liczymy gęstość kostki: `V = a³ = 4³ = 64 cm³`, `ρ = m / V = 51,2 g / 64 cm³ = 0,8 g/cm³`. Z warunku pływania `V_zanurzone / V_całkowite = ρ_ciała / ρ_wody = 0,8 / 1,0 = 0,8`, czyli pod wodą znajduje się `80%` objętości kostki.

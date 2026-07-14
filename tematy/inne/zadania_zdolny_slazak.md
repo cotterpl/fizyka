@@ -1,6 +1,6 @@
 # Temat: Inne — zadania z etapu szkolnego zDolny Ślązak
 
-Zadania, które nie mieszczą się jednoznacznie w tematach 0–5 z `tematy.md`: pojedyncze zadania o charakterze interpretacji rysunku technicznego, ogólnonaukowym i astronomicznym, niezwiązane wprost z żadnym działem fizyki objętym programem etapu szkolnego. (Zadania dotyczące pomiarów, niepewności pomiarowych i jednostek zostały przeniesione do `tematy/0-pomiary-i-niepewnosci/zadania.md`.)
+Zadania, które nie mieszczą się jednoznacznie w tematach 0–5 z `tematy.md`: pojedyncze zadania o charakterze interpretacji rysunku technicznego, ogólnonaukowym i astronomicznym, niezwiązane wprost z żadnym działem fizyki objętym programem etapu szkolnego. (Zadania dotyczące pomiarów, niepewności pomiarowych i jednostek zostały przeniesione do `tematy/0-pomiary-i-niepewnosci/zadania_zdolny_slazak.md`.)
 
 > **Uwaga o linkach źródłowych:** oficjalna strona archiwum (https://zdolnyslazak.edu.pl/?site=arkusze) udostępnia arkusze wyłącznie przez formularz POST, więc bezpośredni link do niej nie otwiera treści zadań. Dlatego linki poniżej wskazują na kopie arkuszy PDF zapisane lokalnie w katalogu `arkusze/` w tym repozytorium — kliknięcie od razu pokazuje treść zadań.
 
