@@ -36,6 +36,9 @@ Każdy symbol i każda wartość liczbowa stałej (np. `g`) użyta w plikach teo
 - ciężar: `F_g` (nie `Q`, nie `F_c`)
 - energia mechaniczna: `E_m` (nie `E_c`)
 - prędkość: `v` łacińskie (nie `υ` greckie ypsilon)
+- wartość prędkości: „wartość prędkości" (nie „szybkość" — dopuszczalna tylko jako wzmianka „potocznie nazywana szybkością")
+- maszyna prosta z korbą: „kołowrót" (nie „kołowrotek"), z wałem (nie „walcem")
+- niepewność pomiaru przyrządem analogowym: **cała działka elementarna** (polska konwencja szkolna, zgodna z zpe.gov.pl i podręcznikami SP; konwencja „pół działki" to tradycja anglosaska/akademicka — wzmiankowana wyłącznie jako jawnie oznaczone rozszerzenie w `0.1`)
 
 Jeśli zadanie źródłowe (podręcznik, arkusz konkursowy) używa innego symbolu niż ustalony w `wzory.md`, **przekonwertuj notację** w naszym pliku albo dopisz wprost „(oznaczane też jako X — zobacz `wzory.md`)”. Nie zostawiaj cichej rozbieżności.
 

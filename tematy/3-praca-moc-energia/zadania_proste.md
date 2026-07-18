@@ -1,6 +1,6 @@
 # Temat 3: Praca, moc, energia — zadania proste
 
-Zestaw prostszych, "rozgrzewkowych" zadań z pracy mechanicznej, mocy, maszyn prostych (kołowrotek, dźwignia dwustronna, bloki) oraz energii kinetycznej, potencjalnej grawitacji i sprężystości (podtematy 3.1–3.4 z `tematy.md`). W przeciwieństwie do zadań w `zadania_zdolny_slazak.md`, są to zadania na poziomie podstawowym — proste podstawienie do wzorów (W=Fs, P=W/t, Ek=½mv², Ep=mgh, warunek równowagi dźwigni F1·r1=F2·r2).
+Zestaw prostszych, "rozgrzewkowych" zadań z pracy mechanicznej, mocy, maszyn prostych (kołowrót, dźwignia dwustronna, bloki) oraz energii kinetycznej, potencjalnej grawitacji i sprężystości (podtematy 3.1–3.4 z `tematy.md`). W przeciwieństwie do zadań w `zadania_zdolny_slazak.md`, są to zadania na poziomie podstawowym — proste podstawienie do wzorów (W=Fs, P=W/t, Ek=½mv², Ep=mgh, warunek równowagi dźwigni F1·r1=F2·r2).
 
 Każde zadanie pochodzi z realnej, zweryfikowanej strony internetowej (link podany jako źródło); obliczenia i odpowiedzi zostały samodzielnie sprawdzone.
 
@@ -18,7 +18,7 @@ Oblicz pracę, jaką wykonuje dźwig budowlany, podnosząc belkę o masie m = 2 
 Dźwig wciąga ciężar, działając na linę stałą siłą F = 5 kN, przy czym lina (a wraz z nią ciężar) przesuwa się ze stałą prędkością v = 0,5 m/s. Jaka jest moc dźwigu?
 Źródło: [Zadania z fizyki na wtorek i czwartek — Temat: Moc, SP1 Jadowniki](https://sp1.jadowniki.pl/wp-content/uploads/2020/06/Fizyka-klasa-7.pdf)
 
-**[3.2 Kołowrotek]**
+**[3.2 Kołowrót]**
 Basia chce wyciągnąć ze studni wiadro z wodą o ciężarze F₂ = 150 N za pomocą kołowrotu. Ramię korby kołowrotu ma długość r₁ = 60 cm, a promień wału, na który nawija się lina, wynosi r₂ = 15 cm. Jaką siłą F₁ musi działać Basia na ramię korby, aby (poruszając się jednostajnie) wyciągnąć wiadro?
 Źródło: [Klasa 7a FIZYKA — Temat: Maszyny proste, Szkoła Edukacja Toruń](http://szkolaedukacja.torun.pl/wp-content/uploads/2020/04/7a-fizyka.pdf)
 

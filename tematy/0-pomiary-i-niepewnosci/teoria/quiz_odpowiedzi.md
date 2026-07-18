@@ -9,7 +9,7 @@ Niepewność liczymy ze wzoru: `niepewność = (klasa dokładności/100) × zakr
 **3. Odpowiedzi:**
 
 - a) **P** — to dokładnie definicja działki elementarnej.
-- b) **F** — dla typowego przyrządu analogowego niepewność to zwykle *połowa* działki elementarnej, a nie cała działka.
+- b) **P** — w polskiej szkole przyjmuje się, że dla przyrządu analogowego niepewność pomiaru jest równa *całej* działce elementarnej (np. linijka z działką 1 mm → ±1 mm). Konwencję połowy działki spotyka się w niektórych źródłach zagranicznych/akademickich — zobacz uwagę w materiale teoretycznym 0.1.
 - c) **P** — to dokładnie definicja zakresu pomiarowego.
 - d) **F** — każdy pomiar fizyczny ma jakąś niepewność, wynikającą z ograniczonej dokładności przyrządu; pomiar idealnie dokładny nie istnieje.
 

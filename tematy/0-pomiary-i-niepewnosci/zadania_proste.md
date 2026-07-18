@@ -5,7 +5,7 @@ Prostsze, "rozgrzewkowe" zadania na poziomie szkolnym (klasa 7-8), znacznie łat
 ---
 
 **[0.1 Niepewność przyrządów — dopasowanie]**
-Do podanych przyrządów pomiarowych dopasuj ich niepewność (dokładność) pomiaru, wybraną z ramki: 0,5 mm; 0,1 mm; 5 g; 1°C.
+Do podanych przyrządów pomiarowych dopasuj ich niepewność (dokładność) pomiaru, wybraną z ramki: 1 mm; 0,1 mm; 5 g; 2°C.
 Przyrządy: metr krawiecki, suwmiarka, waga kuchenna, termometr.
 Źródło: [Fizyka — zadanie 1843, aFizyka.pl](https://www.afizyka.pl/fizyka-zadanie-1843) (na podstawie: *Spotkania z fizyką*, podręcznik, klasa 7, Nowa Era)
 

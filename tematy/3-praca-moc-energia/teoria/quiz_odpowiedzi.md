@@ -22,7 +22,7 @@ Blok stały jest osadzony nieruchomo i tylko zmienia kierunek działania siły (
 **4. Odpowiedzi: a) Prawda, b) Prawda, c) Fałsz.**
 
 - a) To standardowa własność bloku ruchomego, wynikająca ze złotej reguły mechaniki (mniejsza siła ⇒ dłuższa droga).
-- b) W kołowrotku zachodzi `F₁ · r₁ = F₂ · r₂`, więc zwiększenie promienia korby `r₁` przy stałym `r₂` rzeczywiście zmniejsza potrzebną siłę `F₁`.
+- b) W kołowrocie zachodzi `F₁ · r₁ = F₂ · r₂`, więc zwiększenie promienia korby `r₁` przy stałym `r₂` rzeczywiście zmniejsza potrzebną siłę `F₁`.
 - c) Jest odwrotnie: mniejszy kąt nachylenia przy tej samej wysokości oznacza dłuższą równię, a więc — zgodnie ze wzorem `F = F_g·h/s` — *mniejszą*, a nie większą, potrzebną siłę.
 
 ---

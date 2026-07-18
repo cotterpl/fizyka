@@ -33,7 +33,7 @@ Podział materiału odzwierciedla etapy konkursu: etap szkolny (wczesna jesień)
 
 3. Praca, moc, energia  
    3.1. Praca mechaniczna i moc  
-   3.2. Maszyny proste: dźwignia jedno- i dwustronna, bloki, kołowrotek, równia pochyła  
+   3.2. Maszyny proste: dźwignia jedno- i dwustronna, bloki, kołowrót, równia pochyła  
    3.3. Energia kinetyczna, potencjalna grawitacji, potencjalna sprężystości  
    3.4. Zasada zachowania energii mechanicznej
 

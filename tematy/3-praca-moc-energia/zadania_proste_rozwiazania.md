@@ -18,7 +18,7 @@ Moc: P = F · v (bo P = W/t = F·s/t = F·v)
 P = 5000 N · 0,5 m/s = 2500 W = 2,5 kW.
 Odp. Moc dźwigu wynosi 2,5 kW.
 
-**4.** (Kołowrotek — Basia)
+**4.** (Kołowrót — Basia)
 Dane: F₂ = 150 N (ciężar wiadra), r₁ = 60 cm (ramię korby), r₂ = 15 cm (promień wału).
 Warunek równowagi kołowrotu: F₁ · r₁ = F₂ · r₂
 F₁ = F₂ · r₂ / r₁ = 150 N · 15 cm / 60 cm = 2250 / 60 = 37,5 N.
