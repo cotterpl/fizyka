@@ -2,11 +2,11 @@
 
 **1.** Gorąca woda (100°C) ma znacznie wyższą temperaturę niż lód (0°C), więc zgodnie z II zasadą termodynamiki ciepło przepływa od ciała cieplejszego (wody) do ciała chłodniejszego (lodu). Pobrane ciepło najpierw zużywane jest na roztopienie lodu (przemiana fazowa przy stałej temperaturze 0°C), a dopiero energia "nadwyżkowa" ogrzewa powstałą z lodu wodę i jednocześnie ochładza pierwotnie gorącą wodę. Procesy te (przepływ ciepła i mieszanie) trwają, aż temperatura całej zawartości termosu się wyrówna — w stanie równowagi termodynamicznej temperatura ma tę samą wartość w każdym punkcie układu (cała woda w termosie ma jednakową temperaturę, pomiędzy 0°C a 100°C, zależną od proporcji masy wody i lodu — bez podania tych mas nie da się wyliczyć konkretnej wartości, ale kluczowy wniosek to wyrównanie temperatury całego układu).
 
-**2.** Dane: TF = 75°F. Wzór: TC = (5/9)·(TF − 32).
-TC = (5/9)·(75 − 32) = (5/9)·43 ≈ 23,9°C ≈ 24°C.
+**2.** Dane: t(°F) = 75°F. Wzór: t(°C) = (5/9)·(t(°F) − 32).
+t(°C) = (5/9)·(75 − 32) = (5/9)·43 ≈ 23,9°C ≈ 24°C.
 Odpowiedź: w piosence chodziło o temperaturę bliską 24°C.
 
-**3.** Wzór: T(K) = t(°C) + 273; t(°C) = T(K) − 273.
+**3.** Wzór: T(K) = t(°C) + 273; t(°C) = T(K) − 273 (stosujemy szkolne zaokrąglenie 273 zamiast dokładnej wartości 273,15 — zobacz `wzory.md`).
 - 100°C → T = 100 + 273 = 373 K
 - −20°C → T = −20 + 273 = 253 K
 - 383 K → t = 383 − 273 = 110°C

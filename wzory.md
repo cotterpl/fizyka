@@ -50,11 +50,11 @@ $$\vec{F_g} = m\vec{g}$$
 
 gdzie: $m$ — masa ciała (skalar), $\vec{g}$ — przyspieszenie ziemskie (wektor; w przybliżeniu $9{,}81\ \text{m/s}^2$, w zadaniach często zaokrąglane do $10\ \text{m/s}^2$), $\vec{F_g}$ — ciężar (wektor).
 
-**Siła tarcia** ($f$ — współczynnik tarcia [skalar], $N$ — siła nacisku/reakcji podłoża [wektor — tu użyta wartość]):
+**Siła tarcia** ($T$ — siła tarcia [wektor — tu użyta wartość], $f$ — współczynnik tarcia [skalar], $N$ — siła nacisku/reakcji podłoża [wektor — tu użyta wartość]):
 
 $$T = f \cdot N$$
 
-**Siła sprężystości (prawo Hooke'a)** ($k$ — współczynnik sprężystości [skalar], $x$ — odkształcenie [skalar]):
+**Siła sprężystości (prawo Hooke'a)** ($F_s$ — siła sprężystości [wektor — tu użyta wartość], $k$ — współczynnik sprężystości [skalar], $x$ — odkształcenie [skalar]):
 
 $$F_s = k \cdot x$$
 
@@ -81,6 +81,12 @@ gdzie: $W$ — praca (skalar), $F$ — siła (wektor — tu użyta wartość), $
 $$P = \frac{W}{t}$$
 
 gdzie: $P$ — moc (skalar), $W$ — praca wykonana w czasie $t$ (skalar), $t$ — czas (skalar).
+
+**Moc przy ruchu ze stałą prędkością** (wzór eliminuje pracę i czas: $P = \frac{W}{t} = \frac{F \cdot s}{t} = F \cdot v$):
+
+$$P = F \cdot v$$
+
+gdzie: $P$ — moc (skalar), $F$ — wartość siły zgodnej z kierunkiem ruchu (wektor — tu użyta wartość), $v$ — prędkość (wektor — tu użyta wartość).
 
 **Energia kinetyczna** (energia jest zawsze skalarem):
 
@@ -116,7 +122,7 @@ gdzie: $F_1$, $F_2$ — siły działające na ramiona dźwigni (wektor — tu wa
 
 $$E_m = E_k + E_p = \text{const}$$
 
-gdzie: $E_m$ — energia mechaniczna (skalar).
+gdzie: $E_m$ — energia mechaniczna (skalar). Zasada zachowania ($E_m = \text{const}$) obowiązuje tylko wtedy, gdy na ciało nie działają siły tarcia ani opory ruchu (brak strat energii) — zobacz temat 3.4.
 
 ---
 

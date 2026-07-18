@@ -51,7 +51,7 @@ Odp. Pies stoi teraz na 4. stopniu.
 **9.** (Energia potencjalna sprężystości — prawda/fałsz)
 A. Jednostką energii (w tym energii potencjalnej sprężystości) jest dżul [J] — PRAWDA.
 B. Wat [W] jest jednostką mocy, nie energii — FAŁSZ.
-C. Energia potencjalna sprężystości zmienia się podczas drgań — jest największa w skrajnych położeniach (maksymalne odkształcenie sprężyny), a najmniejsza (zerowa) w położeniu równowagi, gdzie prędkość (i energia kinetyczna) jest największa — FAŁSZ.
+C. Energia potencjalna sprężystości zależy od chwilowego odkształcenia sprężyny, a ono podczas drgań ciała zawieszonego na sprężynie cały czas się zmienia — jest największe (a z nim energia sprężystości) w najniższym położeniu ciała, gdy sprężyna jest najbardziej rozciągnięta, a najmniejsze w najwyższym położeniu. Energia ta więc zmienia się podczas drgań — FAŁSZ.
 D. Napięta cięciwa łuku jest odkształcona sprężyście (rozciągnięta), więc magazynuje energię potencjalną sprężystości, którą przekazuje strzale — PRAWDA.
 Odp. Prawdziwe są stwierdzenia A i D.
 

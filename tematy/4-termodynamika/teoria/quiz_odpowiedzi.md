@@ -17,7 +17,7 @@ Przeliczamy: `t[°C] = (5 − 32) · 5/9 = (−27) · 5/9 = −15°C`. Warto pam
 - c) **Prawda** — zgodnie ze wzorem `ΔU = Q + W`, energię wewnętrzną można zwiększyć samym wykonaniem pracy nad ciałem (np. tarcie, sprężanie), nawet gdy `Q = 0`.
 
 **4. Odpowiedź: A (`2 razy`)**
-Do porównywania energii kinetycznej cząsteczek trzeba użyć skali bezwzględnej (kelwiny): `27°C = 300 K`, `327°C = 600 K`. Stosunek `600 K / 300 K = 2`, więc średnia energia kinetyczna cząsteczek wzrosła dwukrotnie — dokładnie tyle razy, ile wzrosła temperatura bezwzględna.
+Do porównywania energii kinetycznej cząsteczek trzeba użyć skali bezwzględnej (kelwiny); stosując szkolne zaokrąglenie 273 zamiast 273,15: `27°C = 300 K`, `327°C = 600 K`. Stosunek `600 K / 300 K = 2`, więc średnia energia kinetyczna cząsteczek wzrosła dwukrotnie — dokładnie tyle razy, ile wzrosła temperatura bezwzględna.
 
 **5. Odpowiedź: B**
 Krążenie ciepłego powietrza nad kaloryferem i opadanie chłodniejszego powietrza znad okna to ruch całych porcji ogrzanego/ochłodzonego gazu — czyli konwekcja. Pozostałe przykłady (A, C, D) to przewodnictwo cieplne — przekazywanie ciepła przez bezpośredni kontakt bez przemieszczania się dużych porcji materii.

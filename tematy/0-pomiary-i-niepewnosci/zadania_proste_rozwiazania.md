@@ -99,7 +99,7 @@ Trzeba sprawdzić, które z podanych jednostek są jednostkami *podstawowymi* uk
 ---
 
 **9.**
-a) Ze wzoru na przeliczanie temperatury: T[K] = t[°C] + 273.
+a) Ze wzoru na przeliczanie temperatury: T[K] = t[°C] + 273 (to szkolne przybliżenie dokładnej wartości 273,15 ze ściągi `wzory.md` — przy dokładności do 1 K wyniki wychodzą takie same).
 - 0°C → 0 + 273 = **273 K**
 - 100°C → 100 + 273 = **373 K**
 - 27°C → 27 + 273 = **300 K**

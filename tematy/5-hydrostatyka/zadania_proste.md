@@ -4,6 +4,8 @@ Proste, "rozgrzewkowe" zadania na poziomie podstawowym (szkoła podstawowa, klas
 
 Każde zadanie zostało zaczerpnięte (skopiowane lub wiernie sparafrazowane) z realnej, odwiedzonej strony internetowej — źródło podane jest pod treścią każdego zadania.
 
+O ile treść zadania nie podaje inaczej, przyjmij wartość przyspieszenia ziemskiego g = 10 N/kg (taką wartość przyjęto we wszystkich rozwiązaniach).
+
 ---
 
 **[5.1 Gęstość]**
@@ -27,7 +29,7 @@ Na wybranym przykładzie opisz zjawisko napięcia powierzchniowego.
 Źródło: [Świat fizyki, klasa 7, zadanie 3/str. 90 — afizyka.pl](https://www.afizyka.pl/podrecznik-swiat-fizyki-klasa7-zadanie-3-90)
 
 **[5.2 Napięcie powierzchniowe]**
-Oceń prawdziwość poniższych stwierdzeń dotyczących napięcia powierzchniowego i nartnika wodnego (pająka wodnego):
+Oceń prawdziwość poniższych stwierdzeń dotyczących napięcia powierzchniowego i nartnika wodnego (owada):
 A. Nartnik wodny może spacerować po powierzchni wody dzięki siłom napięcia powierzchniowego.
 B. Siły napięcia powierzchniowego to siły dążące do osiągnięcia jak najmniejszej powierzchni przez błonę powierzchniową.
 C. Po powierzchni wody mogą spacerować tylko owady. W szczególności wszystkie ciała wykonane ze stali, materiału o większej gęstości niż woda, umieszczone na powierzchni wody, na skutek swojego ciężaru toną.

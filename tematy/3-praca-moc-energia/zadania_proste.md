@@ -11,7 +11,7 @@ Robotnik przesuwa ciężką skrzynię, działając na nią stałą siłą o wart
 Źródło: [Zadania z fizyki na wtorek i czwartek — Praca mechaniczna, SP1 Jadowniki](https://sp1.jadowniki.pl/wp-content/uploads/2020/06/Fizyka-klasa-7.pdf)
 
 **[3.1 Praca mechaniczna]**
-Oblicz pracę, jaką wykonuje dźwig budowlany, podnosząc belkę o masie m = 2 t (tony) na wysokość h = 10 m.
+Oblicz pracę, jaką wykonuje dźwig budowlany, podnosząc belkę o masie m = 2 t (tony) na wysokość h = 10 m (przyjmij g = 10 m/s²).
 Źródło: [Zadania z fizyki na wtorek i czwartek — Praca mechaniczna, SP1 Jadowniki](https://sp1.jadowniki.pl/wp-content/uploads/2020/06/Fizyka-klasa-7.pdf)
 
 **[3.1 Moc]**
@@ -47,7 +47,7 @@ D. Napięta cięciwa łuku posiada energię potencjalną sprężystości.
 Źródło: [Sprawdź się — Energia potencjalna sprężystości, zpe.gov.pl](https://zpe.gov.pl/a/sprawdz-sie/DqG89eRbl)
 
 **[3.4 Zasada zachowania energii mechanicznej]**
-Piłkę o masie m = 0,5 kg wyrzucono pionowo do góry z prędkością początkową v = 4 m/s (przyjmij g = 10 m/s²). Oblicz energię kinetyczną piłki w chwili wyrzutu, jej maksymalną energię potencjalną oraz maksymalną wysokość, na jaką się wzniesie.
+Piłkę o masie m = 0,5 kg wyrzucono pionowo do góry z prędkością początkową v = 4 m/s (przyjmij g = 10 m/s²; za poziom odniesienia energii potencjalnej przyjmij poziom wyrzutu). Oblicz energię kinetyczną piłki w chwili wyrzutu, jej maksymalną energię potencjalną oraz maksymalną wysokość, na jaką się wzniesie.
 Źródło: [Sprawdzian wiadomości i umiejętności z działów o pracy, mocy i energii, zpe.gov.pl](https://zpe.gov.pl/a/sprawdzian-wiadomosci-i-umiejetnosci-z-dzialow-o-pracy-mocy-i-energii/DmDbH3PSw)
 
 **[3.4 Energia mechaniczna]**

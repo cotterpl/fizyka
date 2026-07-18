@@ -53,7 +53,7 @@ Ze wzoru ρ = m/V: ρ = 39,5 g / 5 cm³ = **7,9 g/cm³** = 7900 kg/m³.
 **5.**
 To zadanie opisowe (bez obliczeń) — sprawdza rozumienie zjawiska napięcia powierzchniowego.
 
-Przykładowa odpowiedź: Napięcie powierzchniowe to zjawisko wynikające z sił spójności (przyciągania) między cząsteczkami cieczy. Cząsteczki znajdujące się na powierzchni cieczy są przyciągane głównie w głąb cieczy i do sąsiednich cząsteczek na powierzchni, co powoduje, że powierzchnia zachowuje się jak napięta, sprężysta błona. Przykład: stalowa igła lub zszywka delikatnie położona na powierzchni wody nie tonie, mimo że gęstość stali jest znacznie większa od gęstości wody — utrzymuje ją właśnie napięta „błona" powstała dzięki napięciu powierzchniowemu. Inny przykład: kropla wody przyjmuje kształt zbliżony do kuli, ponieważ taki kształt ma najmniejszą powierzchnię przy danej objętości, a siły napięcia powierzchniowego „dążą" do zminimalizowania powierzchni cieczy. Podobnie nartnik wodny (pająk wodny) może chodzić po powierzchni wody, nie zanurzając się, dzięki tej samej „błonie" powierzchniowej.
+Przykładowa odpowiedź: Napięcie powierzchniowe to zjawisko wynikające z sił spójności (przyciągania) między cząsteczkami cieczy. Cząsteczki znajdujące się na powierzchni cieczy są przyciągane głównie w głąb cieczy i do sąsiednich cząsteczek na powierzchni, co powoduje, że powierzchnia zachowuje się jak napięta, sprężysta błona. Przykład: stalowa igła lub zszywka delikatnie położona na powierzchni wody nie tonie, mimo że gęstość stali jest znacznie większa od gęstości wody — utrzymuje ją właśnie napięta „błona" powstała dzięki napięciu powierzchniowemu. Inny przykład: kropla wody przyjmuje kształt zbliżony do kuli, ponieważ taki kształt ma najmniejszą powierzchnię przy danej objętości, a siły napięcia powierzchniowego „dążą" do zminimalizowania powierzchni cieczy. Podobnie nartnik wodny (owad) może chodzić po powierzchni wody, nie zanurzając się, dzięki tej samej „błonie" powierzchniowej.
 
 ---
 
@@ -117,7 +117,7 @@ Podstawiając V_zanurzone = 0,75 · V i dzieląc obie strony przez V · g:
 ---
 
 **12.**
-Dane: Fw = 100 N, ρ_przedmiot = 400 kg/m³. Przedmiot pływa w wodzie w równowadze (może być zanurzony w wodzie częściowo albo w całości — ważne, że pływa, czyli Fw = ciężar przedmiotu).
+Dane: Fw = 100 N, ρ_przedmiot = 400 kg/m³. Przedmiot pływa w wodzie w równowadze — a ponieważ jego gęstość (400 kg/m³) jest mniejsza od gęstości wody, pływa zanurzony tylko częściowo. Ważne, że jest w równowadze, czyli Fw = ciężar przedmiotu.
 
 Warunek pływania: Fw = F_g = ρ_przedmiot · V · g.
 

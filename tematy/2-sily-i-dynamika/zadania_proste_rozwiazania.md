@@ -17,8 +17,8 @@ N = m·g = 0,5 kg · 10 m/s² = 5 N.
 Siła tarcia: T = f·N = 0,25 · 5 N = **1,25 N**.
 
 **3.** [2.2 Sprężystość]
-Prawo Hooke'a: wydłużenie sprężyny jest proporcjonalne do przyłożonej siły, x = k·F (albo równoważnie F = k'·x).
-Z danych: dla F₁ = 2 N, x₁ = 4 cm, więc stała proporcjonalności x/F = 4 cm / 2 N = 2 cm/N.
+Prawo Hooke'a: wydłużenie sprężyny jest wprost proporcjonalne do przyłożonej siły, F = k·x (k — współczynnik sprężystości, jak w `wzory.md`), czyli x = F/k.
+Z danych: dla F₁ = 2 N, x₁ = 4 cm, więc stała proporcjonalności x/F = 1/k = 4 cm / 2 N = 2 cm/N.
 Dla F₂ = 3 N: x₂ = (x/F) · F₂ = 2 cm/N · 3 N = **6 cm**.
 (Można też ułożyć proporcję: x₁/F₁ = x₂/F₂, czyli 4/2 = x₂/3, skąd x₂ = 6 cm.)
 
@@ -79,7 +79,7 @@ Odpowiedź: ciężar na Księżycu jest **6 razy mniejszy** niż na Ziemi.
 
 **13.** [2.8 Doświadczenie — pomiar ciężaru człowieka]
 Waga sprężynowa (łazienkowa) nie mierzy bezpośrednio masy — mierzy siłę nacisku wywieraną na jej szalkę/platformę w danym momencie.
-- Gdy energicznie podnosisz ręce z ciężarkami **do góry**, nadajesz im (i częściowo swojemu ciału) przyspieszenie skierowane w górę. Zgodnie z II zasadą dynamiki potrzebna jest do tego dodatkowa siła skierowana w górę — a zgodnie z III zasadą dynamiki reakcją na tę dodatkową siłę jest chwilowo **większy** nacisk stóp na wagę. Wskazanie wagi **rośnie**.
+- Gdy energicznie podnosisz ręce z ciężarkami **do góry**, nadajesz im (i częściowo swojemu ciału) przyspieszenie skierowane w górę. Zgodnie z II zasadą dynamiki potrzebna jest do tego dodatkowa siła skierowana w górę, którą Twoje ręce działają na ciężarki — a zgodnie z III zasadą dynamiki ciężarki działają wtedy na Twoje ręce siłą o tej samej wartości, skierowaną w dół. W efekcie stopy naciskają na wagę chwilowo **mocniej**. Wskazanie wagi **rośnie**.
 - Gdy energicznie opuszczasz ręce **w dół**, przyspieszenie (a więc i potrzebna siła) jest skierowane w dół, więc chwilowo "odciążasz" wagę. Wskazanie wagi **maleje**.
 - Gdy poruszasz rękami **w bok** (poziomo), przyspieszenie ma składową pionową równą (praktycznie) zeru, więc siła nacisku na wagę w kierunku pionowym nie zmienia się. Wskazanie wagi **nie zmienia się**.
 Masa Twojego ciała **nie zmienia się** w żadnym z tych przypadków — ilość materii, z której się składasz, jest stała. Zmienia się jedynie chwilowa siła nacisku na wagę, którą czasem błędnie nazywamy "ciężarem" — w rzeczywistości to, co wskazuje waga, zależy nie tylko od masy i g, ale też od chwilowego przyspieszenia ciała.
