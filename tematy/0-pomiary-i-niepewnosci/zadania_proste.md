@@ -18,7 +18,7 @@ Aby wyznaczyć masę wody w szklance, zważono najpierw szklankę pustą, a pote
 Źródło: [Sprawdź się — Niepewność wielkości mierzonej pośrednio, zpe.gov.pl](https://zpe.gov.pl/a/sprawdz-sie/D5odD0bF2) (Ćwiczenie 4)
 
 **[0.3 Cyfry znaczące — zliczanie]**
-Wymień (określ liczbę) cyfr znaczących w liczbach: a) 45 000  b) 20 080  c) 0,0067.
+Wymień cyfry znaczące (określ ich liczbę) w liczbach: a) 45 000  b) 20 080  c) 0,0067.
 Źródło: [Wymień cyfry znaczące w — Ćwiczenie C, str. 17, Skul.pl](https://skul.pl/fizyka/cwiczenie,cwiczenie-c,zid,191326) (na podstawie: *To jest fizyka*, podręcznik, klasa 7, Nowa Era)
 
 **[0.3 Cyfry znaczące — zaokrąglanie wyników pomiarów]**

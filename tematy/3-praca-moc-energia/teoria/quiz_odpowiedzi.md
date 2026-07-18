@@ -1,6 +1,6 @@
 # Odpowiedzi do quizu — 3. Praca, moc, energia
 
-Odpowiedzi i uzasadnienia do quizu z pliku `3.0_praca_moc_energia.md`. Numeracja zgodna z quizem.
+Odpowiedzi i uzasadnienia do quizu z pliku `quiz.md`. Numeracja zgodna z quizem.
 
 ---
 

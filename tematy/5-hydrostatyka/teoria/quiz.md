@@ -18,7 +18,7 @@ Poniższe pytania stylistycznie nawiązują do zadań konkursu „zDolny Śląza
 - c) Dodanie płynu do mycia naczyń zwiększa napięcie powierzchniowe wody.
 - d) Dzięki napięciu powierzchniowemu niektóre lekkie przedmioty gęstsze od wody mogą utrzymać się na jej powierzchni.
 
-**4.** Które z poniższych zjawisk NIE da się wyjaśnić napięciem powierzchniowym?
+**4.** Którego z poniższych zjawisk NIE da się wyjaśnić napięciem powierzchniowym?
 
 - [ ] A. Utrzymywanie się nartnika (owada) na powierzchni stawu.
 - [ ] B. Kulisty kształt małych kropli rosy na liściu.
@@ -32,7 +32,7 @@ Poniższe pytania stylistycznie nawiązują do zadań konkursu „zDolny Śląza
 - [ ] C. `5000 Pa`
 - [ ] D. `8000 Pa`
 
-**6.** Do dwóch naczyń o różnych kształtach (jedno węższe, drugie szersze) nalano tę samą wodę do tej samej wysokości, licząc od dna. Wpisz odpowiedni znak `(>, =, <)` pomiędzy: ciśnienie hydrostatyczne na dnie węższego naczynia `……` ciśnienie hydrostatyczne na dnie szerszego naczynia.
+**6.** Do dwóch naczyń o różnych kształtach (jedno węższe, drugie szersze) nalano taką samą wodę do tej samej wysokości, licząc od dna. Wpisz odpowiedni znak `(>, =, <)` pomiędzy: ciśnienie hydrostatyczne na dnie węższego naczynia `……` ciśnienie hydrostatyczne na dnie szerszego naczynia.
 
 **7.** Oceń prawdziwość poniższych zdań o prawie Pascala (P/F):
 

@@ -24,7 +24,7 @@ Poniższe zadania są w stylu konkursu zDolny Ślązak (etap szkolny). Powodzeni
 - b) W kołowrotku, aby zmniejszyć siłę potrzebną do podniesienia ciężaru, należy zwiększyć promień korby względem promienia walca, na który nawija się lina.
 - c) Równia pochyła o mniejszym kącie nachylenia (przy tej samej wysokości) wymaga *większej* siły do wciągnięcia ciała na szczyt niż równia o większym kącie nachylenia.
 
-**5.** Na dźwigni dwustronnej znajdującej się w równowadze, siła `25 N` działa w odległości `0,4 m` od osi obrotu. Jaka siła działa po drugiej stronie dźwigni, w odległości `1,0 m` od osi obrotu?
+**5.** Na dźwigni dwustronnej znajdującej się w równowadze siła `25 N` działa w odległości `0,4 m` od osi obrotu. Jaka siła działa po drugiej stronie dźwigni, w odległości `1,0 m` od osi obrotu?
 
 **6.** Ciała A i B poruszają się i mają jednakową energię kinetyczną. Masa ciała A jest `4 razy` większa od masy ciała B. Ile razy prędkość ciała B jest większa od prędkości ciała A?
 

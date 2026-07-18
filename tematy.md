@@ -1,6 +1,6 @@
 # Zakres materiału z fizyki — konkursy (na podstawie regulaminu zDolny Ślązak, woj. dolnośląskie)
 
-Podział odzwierciedla podział na etapy konkursowe: etap szkolny (wczesna jesień) obejmuje materiał klasy 7 i początku klasy 8; etap powiatowy i wojewódzki (listopad–luty) obejmują dalszą część materiału klasy 8.
+Podział materiału odzwierciedla etapy konkursu: etap szkolny (wczesna jesień) obejmuje materiał klasy 7 i początku klasy 8; etap powiatowy i wojewódzki (listopad–luty) obejmują dalszą część materiału klasy 8.
 
 ## Klasa 7 i początek klasy 8
 
@@ -104,4 +104,4 @@ Podział odzwierciedla podział na etapy konkursowe: etap szkolny (wczesna jesie
     10.11. Laser jako źródło światła jednobarwnego, przyrządy optyczne
 
 ## Źródło
-[Regulamin Dolnośląskiego Konkursu Fizycznego zDolny Ślązak 2025/2026](https://zdolnyslazak.edu.pl/pliki_pdf/REGULAMIN%20KONKURS%C3%93W_2025_2026.pdf) — podział na etap szkolny (pkt. 1–5), etap powiatowy (pkt. 6–8) i etap wojewódzki (pkt. 9–10) w oryginale.
+[Regulamin Dolnośląskiego Konkursu Fizycznego zDolny Ślązak 2025/2026](https://zdolnyslazak.edu.pl/pliki_pdf/REGULAMIN%20KONKURS%C3%93W_2025_2026.pdf) — podział na etap szkolny (pkt 1–5), etap powiatowy (pkt 6–8) i etap wojewódzki (pkt 9–10) w oryginale.

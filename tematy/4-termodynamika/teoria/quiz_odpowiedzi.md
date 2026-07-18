@@ -1,6 +1,6 @@
 # 4. Termodynamika — odpowiedzi do quizu
 
-Odpowiedzi i krótkie uzasadnienia do quizu z pliku `4.0_termodynamika.md`.
+Odpowiedzi i krótkie uzasadnienia do quizu z pliku `quiz.md`.
 
 **1. Odpowiedź: C**
 Zero bezwzględne to `−273,15°C` (`0 K`) — najniższa możliwa temperatura, przy której ustaje niemal cały chaotyczny ruch cząsteczek. To nie jest ani temperatura zamarzania (`0°C`), ani wrzenia wody (`100°C`).
@@ -14,10 +14,10 @@ Przeliczamy: `t[°C] = (5 − 32) · 5/9 = (−27) · 5/9 = −15°C`. Warto pam
 
 - b) **Fałsz** — ciepło płynie samoistnie tylko wtedy, gdy istnieje różnica temperatur; jeśli ciała mają tę samą temperaturę (są w równowadze termodynamicznej), nie ma netto przepływu ciepła między nimi.
 
-- c) **Prawda** — zgodnie ze wzorem `ΔU = Q + W`, energię wewnętrzną można zwiększyć wyłącznie poprzez wykonanie pracy nad ciałem (np. tarcie, sprężanie), nawet gdy `Q = 0`.
+- c) **Prawda** — zgodnie ze wzorem `ΔU = Q + W`, energię wewnętrzną można zwiększyć samym wykonaniem pracy nad ciałem (np. tarcie, sprężanie), nawet gdy `Q = 0`.
 
 **4. Odpowiedź: A (`2 razy`)**
-Do porównywania energii kinetycznej cząsteczek trzeba użyć skali bezwzględnej (kelwiny): `27°C = 300 K`, `327°C = 600 K`. Stosunek `600 K / 300 K = 2`, więc średnia energia kinetyczna cząsteczek wzrosła dwukrotnie — dokładnie tyle, ile wzrosła temperatura bezwzględna.
+Do porównywania energii kinetycznej cząsteczek trzeba użyć skali bezwzględnej (kelwiny): `27°C = 300 K`, `327°C = 600 K`. Stosunek `600 K / 300 K = 2`, więc średnia energia kinetyczna cząsteczek wzrosła dwukrotnie — dokładnie tyle razy, ile wzrosła temperatura bezwzględna.
 
 **5. Odpowiedź: B**
 Krążenie ciepłego powietrza nad kaloryferem i opadanie chłodniejszego powietrza znad okna to ruch całych porcji ogrzanego/ochłodzonego gazu — czyli konwekcja. Pozostałe przykłady (A, C, D) to przewodnictwo cieplne — przekazywanie ciepła przez bezpośredni kontakt bez przemieszczania się dużych porcji materii.
@@ -40,4 +40,4 @@ Ze wzoru na ciepło parowania: `Q = L · m = 2 260 000 J/kg · 0,2 kg = 452 000 
 To zdanie jest fałszywe — w gazie odległości między cząsteczkami są (w porównaniu do cieczy i ciała stałego) bardzo **duże**, a nie małe, dlatego gazy **łatwo**, a nie trudno, poddają się ściskaniu. Pozostałe zdania (A, B, D) są prawdziwe i poprawnie opisują budowę cząsteczkową materii.
 
 **10. Odpowiedź: A (woda)**
-Obliczamy ciepło właściwe substancji: `c = Q / (m · ΔT) = 8400 / (1 · 2) = 4200 J/(kg·°C)`. Ta wartość odpowiada dokładnie cieplu właściwemu wody, więc podgrzewaną substancją była woda.
+Obliczamy ciepło właściwe substancji: `c = Q / (m · ΔT) = 8400 / (1 · 2) = 4200 J/(kg·°C)`. Ta wartość odpowiada dokładnie ciepłu właściwemu wody, więc podgrzewaną substancją była woda.

@@ -74,7 +74,7 @@ Jaką całkowitą drogę przebyło to ciało w ciągu całych `12 sekund` ruchu?
 - [ ] C. `50 m/s²`
 - [ ] D. `5000 m/s²`
 
-**9.** Uczennica idzie do szkoły. Pierwsze `600 m` pokonuje w ciągu `10 minut` ruchem jednostajnym, a następnie ostatnie `200 m` przebiega w ciągu `1 minuty` (też w przybliżeniu ruchem jednostajnym, bo biegnie ze stałym tempem). Oceń prawdziwość poniższych zdań (P/F):
+**9.** Uczennica idzie do szkoły. Pierwsze `600 m` pokonuje w ciągu `10 minut` ruchem jednostajnym, a następnie ostatnie `200 m` przebiega w ciągu `1 minuty` (też w przybliżeniu ruchem jednostajnym, bo biegnie w stałym tempie). Oceń prawdziwość poniższych zdań (P/F):
 
 - [ ] A. Prędkość uczennicy podczas chodu wynosiła `1 m/s`.
 - [ ] B. Prędkość uczennicy podczas biegu była większa niż podczas chodu.

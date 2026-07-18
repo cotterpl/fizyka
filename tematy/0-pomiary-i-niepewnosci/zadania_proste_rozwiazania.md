@@ -45,7 +45,7 @@ c) **0,0067** — zera na początku liczby (przed pierwszą cyfrą różną od z
 ---
 
 **5.**
-Zaokrąglamy licząc cyfry znaczące od pierwszej cyfry różnej od zera (patrząc na kolejną, "obcinaną" cyfrę, żeby wiedzieć, czy zaokrąglić w górę):
+Zaokrąglamy, licząc cyfry znaczące od pierwszej cyfry różnej od zera (patrząc na kolejną, "obcinaną" cyfrę, żeby wiedzieć, czy zaokrąglić w górę):
 
 a) 5,863 km — 3 cyfry znaczące: cyfry 5, 8, 6; następna cyfra to 3 (< 5) → nie zaokrąglamy w górę → **5,86 km**. 2 cyfry znaczące: cyfry 5, 8; następna cyfra to 6 (≥ 5) → zaokrąglamy w górę → **5,9 km**.
 

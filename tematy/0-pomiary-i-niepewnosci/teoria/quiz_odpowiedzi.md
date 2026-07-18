@@ -1,7 +1,7 @@
 # Temat 0. Pomiary fizyczne, niepewności pomiarowe i jednostki — odpowiedzi do quizu
 
 **1. Odpowiedź: C.**
-Wskazanie `640 g ± 5 g` oznacza, że prawdziwa masa mieści się w przedziale `635–645 g`. Spośród podanych odpowiedzi tylko `0,645 kg = 645 g` mieści się w tym przedziale (mieści się dokładnie na jego górnej granicy) — pozostałe odpowiedzi po przeliczeniu na gramy dają wartości zupełnie innego rzędu wielkości (`64,5 mg = 0,0645 g`; `6,45 dag = 64,5 g`; `6,45 kg = 6450 g`).
+Wskazanie `640 g ± 5 g` oznacza, że prawdziwa masa mieści się w przedziale `635–645 g`. Spośród podanych odpowiedzi tylko `0,645 kg = 645 g` mieści się w tym przedziale (leży dokładnie na jego górnej granicy) — pozostałe odpowiedzi po przeliczeniu na gramy dają wartości zupełnie innego rzędu wielkości (`64,5 mg = 0,0645 g`; `6,45 dag = 64,5 g`; `6,45 kg = 6450 g`).
 
 **2. Odpowiedź: B.**
 Niepewność liczymy ze wzoru: `niepewność = (klasa dokładności/100) × zakres pomiarowy = (2,5/100) × 20 N = 0,5 N`. Klasę dokładności zawsze mnożymy przez cały zakres pomiarowy przyrządu, a nie przez odczytaną wartość.

@@ -2,7 +2,7 @@
 
 Zbiór wzorów bazowych z tematów 0–5 (zakres etapu szkolnego i powiatowego). Pominięto wzory, które są tylko trywialnym przekształceniem (zamianą zmiennej) wzoru już podanego — np. jeśli podano $v = s/t$, nie powtarzamy $s = v \cdot t$ czy $t = s/v$.
 
-**Skalar czy wektor?** Przy każdej wielkości w opisach "gdzie:" znajdziesz dopisek `(skalar)` albo `(wektor)`. Zobacz temat `0.6_skalary_i_wektory.md` po pełne wyjaśnienie tego rozróżnienia. Krótko: jeśli wzór jest prawdziwym równaniem wektorowym (obowiązuje niezależnie od kierunku), piszemy go ze strzałką, np. $\vec{F} = m\vec{a}$. Jeśli wzór w praktyce liczy tylko wartość (modu) danej wielkości, piszemy go bez strzałki, a przy symbolu zaznaczamy `(wektor — tu użyta wartość)`.
+**Skalar czy wektor?** Przy każdej wielkości w opisach "gdzie:" znajdziesz dopisek `(skalar)` albo `(wektor)`. Pełne wyjaśnienie tego rozróżnienia znajdziesz w temacie `0.6_skalary_i_wektory.md`. Krótko: jeśli wzór jest prawdziwym równaniem wektorowym (obowiązuje niezależnie od kierunku), piszemy go ze strzałką, np. $\vec{F} = m\vec{a}$. Jeśli wzór w praktyce liczy tylko wartość (moduł) danej wielkości, piszemy go bez strzałki, a przy symbolu zaznaczamy `(wektor — tu użyta wartość)`.
 
 ---
 

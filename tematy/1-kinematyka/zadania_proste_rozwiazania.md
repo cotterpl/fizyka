@@ -14,7 +14,7 @@ D. PRAWDA — to jest definicja ruchu jednostajnego: w równych odstępach czasu
 
 **3.**
 Dane: s = 120 km, v = 80 km/h.
-Z wzoru na prędkość w ruchu jednostajnym: v = s/t, więc t = s/v.
+Ze wzoru na prędkość w ruchu jednostajnym: v = s/t, więc t = s/v.
 t = 120 km / 80 km/h = 1,5 h = 1 h 30 min.
 Pociąg jedzie 1,5 godziny (1 godzinę 30 minut).
 

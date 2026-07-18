@@ -11,7 +11,7 @@ Objętość kostki: V = a³ = 3 cm × 3 cm × 3 cm = 27 cm³.
 
 Zamieniamy gęstość na g/cm³: ρ = 3000 kg/m³ = 3 g/cm³ (ponieważ 1000 kg/m³ = 1 g/cm³).
 
-Z wzoru ρ = m/V: m = ρ · V = 3 g/cm³ · 27 cm³ = **81 g**.
+Ze wzoru ρ = m/V: m = ρ · V = 3 g/cm³ · 27 cm³ = **81 g**.
 
 Sprawdzenie w SI: V = 27 cm³ = 0,000027 m³; m = 3000 kg/m³ · 0,000027 m³ = 0,081 kg = 81 g. ✓
 
@@ -44,7 +44,7 @@ Ciężar: F_g = m · g = 2 kg · 10 N/kg = **20 N**.
 **4.**
 Dane: m = 39,5 g, V = 5 cm³.
 
-Z wzoru ρ = m/V: ρ = 39,5 g / 5 cm³ = **7,9 g/cm³** = 7900 kg/m³.
+Ze wzoru ρ = m/V: ρ = 39,5 g / 5 cm³ = **7,9 g/cm³** = 7900 kg/m³.
 
 (To gęstość zbliżona do gęstości żelaza/stali — moneta jest wykonana z metalu o takiej gęstości.)
 
@@ -89,7 +89,7 @@ Dane: S1 = 5 m², F1 = 30 N, F2 = 66 N.
 
 Prawo Pascala dla prasy hydraulicznej: F1/S1 = F2/S2.
 
-Przekształcamy do S2: S2 = S1 · (F2/F1) = 5 m² · (66 N / 30 N) = 5 m² · 2,2 = **11 m²**.
+Przekształcamy wzór, aby wyznaczyć S2: S2 = S1 · (F2/F1) = 5 m² · (66 N / 30 N) = 5 m² · 2,2 = **11 m²**.
 
 ---
 
@@ -117,8 +117,8 @@ Podstawiając V_zanurzone = 0,75 · V i dzieląc obie strony przez V · g:
 ---
 
 **12.**
-Dane: Fw = 100 N, ρ_przedmiot = 400 kg/m³. Przedmiot pływa w wodzie w równowadze (cały jest zanurzony w wodzie tylko częściowo albo w całości — ważne, że pływa, czyli Fw = ciężar przedmiotu).
+Dane: Fw = 100 N, ρ_przedmiot = 400 kg/m³. Przedmiot pływa w wodzie w równowadze (może być zanurzony w wodzie częściowo albo w całości — ważne, że pływa, czyli Fw = ciężar przedmiotu).
 
 Warunek pływania: Fw = F_g = ρ_przedmiot · V · g.
 
-Przekształcamy do V: V = Fw / (ρ_przedmiot · g) = 100 N / (400 kg/m³ · 10 N/kg) = 100 / 4000 = **0,025 m³**.
+Przekształcamy wzór, aby wyznaczyć V: V = Fw / (ρ_przedmiot · g) = 100 N / (400 kg/m³ · 10 N/kg) = 100 / 4000 = **0,025 m³**.

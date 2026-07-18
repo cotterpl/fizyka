@@ -1,6 +1,6 @@
 # Temat 2: Siły i dynamika — odpowiedzi do quizu
 
-Poniżej znajdziesz odpowiedzi do wszystkich 10 pytań quizu z pliku `2.0_sily_i_dynamika.md`, wraz z krótkim uzasadnieniem. Numeracja jest zgodna z quizem.
+Poniżej znajdziesz odpowiedzi do wszystkich 10 pytań quizu z pliku `quiz.md`, wraz z krótkim uzasadnieniem. Numeracja jest zgodna z quizem.
 
 ---
 

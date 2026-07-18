@@ -2,7 +2,7 @@
 
 Poniższy quiz sprawdza Twoją wiedzę z całego rozdziału. Staraj się rozwiązywać zadania samodzielnie, zanim zajrzysz do odpowiedzi!
 
-**1.** Które z poniższych trzech wielkości opisują w pełni siłę jako wektor?
+**1.** Który z poniższych zestawów trzech wielkości w pełni opisuje siłę jako wektor?
 
 - [ ] A. Masa, prędkość, czas.
 - [ ] B. Wartość, kierunek, zwrot.

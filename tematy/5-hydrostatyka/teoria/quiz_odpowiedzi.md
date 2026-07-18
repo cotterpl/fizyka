@@ -33,7 +33,7 @@ Ciśnienie hydrostatyczne zależy tylko od gęstości cieczy i głębokości zan
 - c) Fałsz — prawo Pascala dotyczy dowolnych płynów, czyli zarówno cieczy, jak i gazów (płyn to w fizyce wspólna nazwa dla cieczy i gazów).
 
 **8. Odpowiedź: A (`0,092 N`).**
-`F_w = ρ_oleju · V · g`. Zamieniamy jednostki: `ρ_oleju = 0,92 g/cm³ = 920 kg/m³`, `V = 10 cm³ = 0,00001 m³ = 1×10⁻⁵ m³`. Podstawiamy: `F_w = 920 kg/m³ × 1×10⁻⁵ m³ × 10 N/kg = 0,092 N`. Masa kulki (`12 g`) jest tu informacją zbędną — do obliczenia samej siły wyporu potrzebna jest tylko objętość i gęstość cieczy.
+`F_w = ρ_oleju · V · g`. Zamieniamy jednostki: `ρ_oleju = 0,92 g/cm³ = 920 kg/m³`, `V = 10 cm³ = 0,00001 m³ = 1×10⁻⁵ m³`. Podstawiamy: `F_w = 920 kg/m³ × 1×10⁻⁵ m³ × 10 N/kg = 0,092 N`. Masa kulki (`12 g`) jest tu informacją zbędną — do obliczenia samej siły wyporu potrzebne są tylko objętość kulki i gęstość cieczy.
 
 **9. Odpowiedź: B.**
 Hel ma mniejszą gęstość niż powietrze, dzięki czemu siła wyporu działająca na balonik (zależna od gęstości ośrodka, czyli powietrza, oraz objętości balonika) jest większa niż jego ciężar. Wypadkowa siła jest skierowana do góry, więc balonik się unosi. Odpowiedzi A i C są fizycznie błędne (grawitacja działa na każdą masę, a napięcie powierzchniowe dotyczy powierzchni cieczy, nie powietrza), a D błędnie opisuje relację sił.
